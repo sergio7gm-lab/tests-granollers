@@ -1,0 +1,1 @@
+Registres 2234; reserves 67. Auditoria textual PDF local: {'pdf_no_disponible_amb_nom_corresponent': 44, 'enunciat_localitzat_literal': 23}. No es dona per finalitzada la verificacio de respostes ni la prova de perfils.

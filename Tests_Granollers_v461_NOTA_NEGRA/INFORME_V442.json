@@ -1,0 +1,42 @@
+{
+  "version": 442,
+  "base": 441,
+  "total_records": 2234,
+  "new_reserve_flags": [
+    "CONS-ECONPLACES_14",
+    "CONS-ECONPLACES_21",
+    "CONS-798",
+    "ROCA-01-009",
+    "ROCA-01-051",
+    "ROCA-01-052",
+    "ROCA-01-053",
+    "ROCA-01-055",
+    "ROCA-02-059",
+    "ROCA-02-060",
+    "ROCA-02-061",
+    "ROCA-04-025",
+    "ROCA-04-026",
+    "ROCA-04-028",
+    "ROCA-04-029",
+    "ROCA-05-025",
+    "ROCA-06-050",
+    "ROCA-3941-1A-027",
+    "ROCA-3941-1A-030",
+    "GRAN-TEI-2026-031"
+  ],
+  "shared_with_ordinary_exam": [
+    "CONS-798",
+    "ROCA-01-009",
+    "ROCA-01-051",
+    "ROCA-01-052"
+  ],
+  "reserve_flags_total": 76,
+  "answers_changed": 0,
+  "question_text_changed": 0,
+  "notes": [
+    "Marca global de reserva activada només per registres amb vinculació explícita reserve=true.",
+    "Les vinculacions exam_memberships individuals no s’han modificat.",
+    "CONS-798 manté resposta A de correcció jurídica no oficial; B del PDF docent queda documentada a les variants.",
+    "La marca global no certifica la resposta oficial."
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "version": 437,
+  "bank_total": 2234,
+  "fonts_pendents_inicials": 16,
+  "fonts_amb_pdf_recuperat": 4,
+  "fonts_encara_sense_pdf_recuperat": 12,
+  "reserves_3927_segona_prova": {
+    "R02": "B",
+    "R03": "D",
+    "R04": "C",
+    "R05": "A"
+  },
+  "correccions": [
+    {
+      "id": "ROCA-ADM-3927-2025-2A-R02",
+      "abans": "C",
+      "ara": "B",
+      "pagina": 13
+    },
+    {
+      "id": "ROCA-ADM-3927-2025-2A-R04",
+      "abans": "D",
+      "ara": "C",
+      "pagina": 14
+    }
+  ],
+  "observacions": [
+    "La recuperació dels altres tres PDF no implica que les seves preguntes estiguin auditades.",
+    "La pregunta R01 de la mateixa prova no figura en les 4 pendents i no s’ha modificat."
+  ]
+}

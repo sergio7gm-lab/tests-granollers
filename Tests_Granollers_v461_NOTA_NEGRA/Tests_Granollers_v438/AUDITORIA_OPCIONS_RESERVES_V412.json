@@ -1,0 +1,1081 @@
+{
+  "version": "v412",
+  "metode": "Comparació literal normalitzada d’enunciats i opcions amb text pdftotext de PDFs locals. La cerca d’opcions és global al document i no certifica ordre ni associació amb la pregunta; no certifica la clau oficial.",
+  "counts": {
+    "reserves": 67,
+    "enunciats_localitzats": 23,
+    "enunciats_i_totes_opcions_localitzades": 22,
+    "pdf_no_localitzat_o_no_coincident": 44,
+    "tres_opcions": 1,
+    "quatre_opcions": 66
+  },
+  "registres": [
+    {
+      "id": "BCN-ENG-A1-2025-41",
+      "source": "Ajuntament de Barcelona — Subgrup A1, test temari comú (01/03/2025)",
+      "resposta": "A",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "BCN-ENG-A1-2025-42",
+      "source": "Ajuntament de Barcelona — Subgrup A1, test temari comú (01/03/2025)",
+      "resposta": "B",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "BCN-ENG-A1-2025-43",
+      "source": "Ajuntament de Barcelona — Subgrup A1, test temari comú (01/03/2025)",
+      "resposta": "C",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "BCN-ENG-A1-2025-44",
+      "source": "Ajuntament de Barcelona — Subgrup A1, test temari comú (01/03/2025)",
+      "resposta": "A",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "BCN-ENG-A1-2025-45",
+      "source": "Ajuntament de Barcelona — Subgrup A1, test temari comú (01/03/2025)",
+      "resposta": "A",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "GRA-A2-ENG-2026-52",
+      "source": "A2 ENGINYER TECNICOBRA PÚBLICA(4).pdf",
+      "resposta": "B",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "CONS-GRAN-A1-ECO-051",
+      "source": "Examen A1 Tècnic/a Superior Economista Granollers",
+      "resposta": "A",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "CONS-GRAN-A1-ECO-053",
+      "source": "Examen A1 Tècnic/a Superior Economista Granollers",
+      "resposta": "A",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "CONS-GRAN-A1-ECO-054",
+      "source": "Examen A1 Tècnic/a Superior Economista Granollers",
+      "resposta": "B",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "CONS-GRAN-A1-ECO-055",
+      "source": "Examen A1 Tècnic/a Superior Economista Granollers",
+      "resposta": "A",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "CONS-ECONPLACES_14",
+      "source": "Granollers - dues places economista A1",
+      "resposta": "A",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": true,
+      "opcions_en_pdf": [
+        {
+          "pdf": "Model_examen_2a_prova_plantilla_A_-_Codi_3940_LAROCA_desbloquejat(2).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": true
+        },
+        {
+          "pdf": "La_Roca_Examen_3941_2a_prova(2).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": true
+        }
+      ],
+      "opcions_completes_en_algun_pdf": true,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "CONS-ECONPLACES_21",
+      "source": "Granollers - dues places economista A1",
+      "resposta": "B",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": true,
+      "opcions_en_pdf": [
+        {
+          "pdf": "Model_examen_2a_prova_plantilla_A_-_Codi_3940_LAROCA_desbloquejat(2).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": true
+        },
+        {
+          "pdf": "La_Roca_Examen_3941_2a_prova(2).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": true
+        }
+      ],
+      "opcions_completes_en_algun_pdf": true,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "CONS-DRET22_R1",
+      "source": "Granollers - Borsa Tècnic/a Superior Dret 2022",
+      "resposta": "D",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "CONS-DRET22_R2",
+      "source": "Granollers - Borsa Tècnic/a Superior Dret 2022",
+      "resposta": "B",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "CONS-DRET22_R3",
+      "source": "Granollers - Borsa Tècnic/a Superior Dret 2022",
+      "resposta": "A",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "CONS-JUR_A1_R1",
+      "source": "Granollers - A1 Tècnic/a Superior Administració General (Serveis Jurídics)",
+      "resposta": "C",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "CONS-JUR_A1_R2",
+      "source": "Granollers - A1 Tècnic/a Superior Administració General (Serveis Jurídics)",
+      "resposta": "A",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "CONS-JUR_A1_R3",
+      "source": "Granollers - A1 Tècnic/a Superior Administració General (Serveis Jurídics)",
+      "resposta": "C",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "CONS-JUR_A1_R4",
+      "source": "Granollers - A1 Tècnic/a Superior Administració General (Serveis Jurídics)",
+      "resposta": "D",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "CONS-JUR_A1_R5",
+      "source": "Granollers - A1 Tècnic/a Superior Administració General (Serveis Jurídics)",
+      "resposta": "B",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "CONS-GRA-A2-TAG-52",
+      "source": "Ajuntament de Granollers — Tècnic/a d’Administració General A2",
+      "resposta": "C",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "CONS-GRA-A2-TAG-53",
+      "source": "Ajuntament de Granollers — Tècnic/a d’Administració General A2",
+      "resposta": "B",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "CONS-798",
+      "source": "Granollers - personal administratiu, biblioteca i informàtica",
+      "resposta": "A",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": true,
+      "opcions_en_pdf": [
+        {
+          "pdf": "personal docent tei(4).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": true
+        },
+        {
+          "pdf": "personal Administ, t. a. biblioteca, informàtics(4).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": true
+        },
+        {
+          "pdf": "personal docent grup A_any2022(4).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": true
+        }
+      ],
+      "opcions_completes_en_algun_pdf": true,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "ROCA-01-009",
+      "source": "Model_1r_exercici_TAG_189878W_LAROCA.pdf.crdownload",
+      "resposta": "C",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": true,
+      "opcions_en_pdf": [
+        {
+          "pdf": "Model_1r_exercici_TAG_189878W (1)(2).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": true
+        }
+      ],
+      "opcions_completes_en_algun_pdf": true,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "ROCA-01-051",
+      "source": "Model_1r_exercici_TAG_189878W_LAROCA.pdf.crdownload",
+      "resposta": "B",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": true,
+      "opcions_en_pdf": [
+        {
+          "pdf": "Model_examen_1a_prova_plantilla_A_-_Codi_3940_LAROCA(2).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": true
+        },
+        {
+          "pdf": "Model_1r_exercici_TAG_189878W (1)(2).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": true
+        }
+      ],
+      "opcions_completes_en_algun_pdf": true,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "ROCA-01-052",
+      "source": "Model_1r_exercici_TAG_189878W_LAROCA.pdf.crdownload",
+      "resposta": "D",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": true,
+      "opcions_en_pdf": [
+        {
+          "pdf": "Model_examen_1a_prova_plantilla_A_-_Codi_3940_LAROCA(2).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": true
+        },
+        {
+          "pdf": "Model_1r_exercici_TAG_189878W (1)(2).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": true
+        }
+      ],
+      "opcions_completes_en_algun_pdf": true,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "ROCA-01-053",
+      "source": "Model_1r_exercici_TAG_189878W_LAROCA.pdf.crdownload",
+      "resposta": "A",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": true,
+      "opcions_en_pdf": [
+        {
+          "pdf": "Model_1r_exercici_TAG_189878W (1)(2).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": true
+        }
+      ],
+      "opcions_completes_en_algun_pdf": true,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "ROCA-01-055",
+      "source": "Model_1r_exercici_TAG_189878W_LAROCA.pdf.crdownload",
+      "resposta": "A",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": true,
+      "opcions_en_pdf": [
+        {
+          "pdf": "Model_1r_exercici_TAG_189878W (1)(2).pdf",
+          "opcions_localitzades": {
+            "A": false,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": false
+        }
+      ],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "ROCA-02-059",
+      "source": "Model_2n_exercici_TAG_189878W_LA ROCA.pdf.crdownload",
+      "resposta": "A",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": true,
+      "opcions_en_pdf": [
+        {
+          "pdf": "Examen_TAG_La_Roca_2(1).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": true
+        }
+      ],
+      "opcions_completes_en_algun_pdf": true,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "ROCA-02-060",
+      "source": "Model_2n_exercici_TAG_189878W_LA ROCA.pdf.crdownload",
+      "resposta": "B",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": true,
+      "opcions_en_pdf": [
+        {
+          "pdf": "Examen_TAG_La_Roca_2(1).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": true
+        }
+      ],
+      "opcions_completes_en_algun_pdf": true,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "ROCA-02-061",
+      "source": "Model_2n_exercici_TAG_189878W_LA ROCA.pdf.crdownload",
+      "resposta": "D",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": true,
+      "opcions_en_pdf": [
+        {
+          "pdf": "Examen_TAG_La_Roca_2(1).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": true
+        }
+      ],
+      "opcions_completes_en_algun_pdf": true,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "ROCA-04-025",
+      "source": "Model_examen_1a_prova_plantilla_A_-_Codi_3940_LAROCA.pdf.crdownload",
+      "resposta": "D",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": true,
+      "opcions_en_pdf": [
+        {
+          "pdf": "Model_examen_2a_prova_plantilla_A_-_Codi_3940_LAROCA_desbloquejat(2).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": true
+        },
+        {
+          "pdf": "Model_examen_1a_prova_plantilla_A_-_Codi_3940_LAROCA(2).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": true
+        },
+        {
+          "pdf": "La_Roca_Examen_3941_2a_prova(2).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": true
+        }
+      ],
+      "opcions_completes_en_algun_pdf": true,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "ROCA-04-026",
+      "source": "Model_examen_1a_prova_plantilla_A_-_Codi_3940_LAROCA.pdf.crdownload",
+      "resposta": "A",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": true,
+      "opcions_en_pdf": [
+        {
+          "pdf": "Model_examen_1a_prova_plantilla_A_-_Codi_3940_LAROCA(2).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": true
+        }
+      ],
+      "opcions_completes_en_algun_pdf": true,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "ROCA-04-028",
+      "source": "Model_examen_1a_prova_plantilla_A_-_Codi_3940_LAROCA.pdf.crdownload",
+      "resposta": "B",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": true,
+      "opcions_en_pdf": [
+        {
+          "pdf": "Model_examen_1a_prova_plantilla_A_-_Codi_3941_LAROCA_desbloquejat(2).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": true
+        },
+        {
+          "pdf": "Model_examen_1a_prova_plantilla_A_-_Codi_3940_LAROCA(2).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": true
+        }
+      ],
+      "opcions_completes_en_algun_pdf": true,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "ROCA-04-029",
+      "source": "Model_examen_1a_prova_plantilla_A_-_Codi_3940_LAROCA.pdf.crdownload",
+      "resposta": "C",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": true,
+      "opcions_en_pdf": [
+        {
+          "pdf": "Model_examen_1a_prova_plantilla_A_-_Codi_3941_LAROCA_desbloquejat(2).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": true
+        },
+        {
+          "pdf": "Model_examen_1a_prova_plantilla_A_-_Codi_3940_LAROCA(2).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": true
+        }
+      ],
+      "opcions_completes_en_algun_pdf": true,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "ROCA-05-025",
+      "source": "Model_examen_1a_prova_plantilla_A_-_Codi_3941_LAROCA.pdf.crdownload",
+      "resposta": "A",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": true,
+      "opcions_en_pdf": [
+        {
+          "pdf": "Model_examen_2a_prova_plantilla_A_-_Codi_3940_LAROCA_desbloquejat(2).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": true
+        },
+        {
+          "pdf": "Model_examen_1a_prova_plantilla_A_-_Codi_3941_LAROCA_desbloquejat(2).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": true
+        }
+      ],
+      "opcions_completes_en_algun_pdf": true,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "ROCA-06-050",
+      "source": "Model_examen_2a_prova_plantilla_A_-_Codi_3940_LAROCA.pdf.crdownload",
+      "resposta": "D",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": true,
+      "opcions_en_pdf": [
+        {
+          "pdf": "Model_examen_2a_prova_plantilla_A_-_Codi_3940_LAROCA_desbloquejat(2).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": true
+        },
+        {
+          "pdf": "La_Roca_Examen_3941_2a_prova(2).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": true
+        }
+      ],
+      "opcions_completes_en_algun_pdf": true,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "ROCA-AUX-3941-P2-051",
+      "source": "Model_examen_2a_prova_plantilla_A_-_Codi_3941_LAROCA.pdf(4).pdf",
+      "resposta": "A",
+      "nombre_opcions": 3,
+      "enunciat_localitzat": true,
+      "opcions_en_pdf": [
+        {
+          "pdf": "La_Roca_Examen_3941_2a_prova(2).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true
+          },
+          "totes_les_opcions_localitzades": true
+        }
+      ],
+      "opcions_completes_en_algun_pdf": true,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "ROCA-3941-1A-027",
+      "source": "Model_examen_1a_prova_plantilla_A_-_Codi_3941_LAROCA_desbloquejat.pdf",
+      "resposta": "C",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": true,
+      "opcions_en_pdf": [
+        {
+          "pdf": "Model_examen_1a_prova_plantilla_A_-_Codi_3941_LAROCA_desbloquejat(2).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": true
+        },
+        {
+          "pdf": "Model_examen_1a_prova_plantilla_A_-_Codi_3940_LAROCA(2).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": true
+        }
+      ],
+      "opcions_completes_en_algun_pdf": true,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "ROCA-3941-1A-030",
+      "source": "Model_examen_1a_prova_plantilla_A_-_Codi_3941_LAROCA_desbloquejat.pdf",
+      "resposta": "C",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": true,
+      "opcions_en_pdf": [
+        {
+          "pdf": "Model_examen_1a_prova_plantilla_A_-_Codi_3941_LAROCA_desbloquejat(2).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": true
+        }
+      ],
+      "opcions_completes_en_algun_pdf": true,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "LAROCA-TAG-189878W-2N-064",
+      "source": "Model_2n_exercici_TAG_189878W_LA_ROCA_desbloquejat.pdf",
+      "resposta": "B",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": true,
+      "opcions_en_pdf": [
+        {
+          "pdf": "Examen_TAG_La_Roca_2(1).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": true
+        }
+      ],
+      "opcions_completes_en_algun_pdf": true,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "LAROCA-TAG-189878W-2N-065",
+      "source": "Model_2n_exercici_TAG_189878W_LA_ROCA_desbloquejat.pdf",
+      "resposta": "B",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": true,
+      "opcions_en_pdf": [
+        {
+          "pdf": "Examen_TAG_La_Roca_2(1).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": true
+        }
+      ],
+      "opcions_completes_en_algun_pdf": true,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "LAROCA-TAG-155928R-2P-063",
+      "source": "Plantilla_prova_teorica_2_TAG_155982R_LAROCA(4).pdf",
+      "resposta": "B",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "LAROCA-TAG-155928R-2P-064",
+      "source": "Plantilla_prova_teorica_2_TAG_155982R_LAROCA(4).pdf",
+      "resposta": "C",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "BARC-PARCS-2022-072",
+      "source": "2022_PARCS_09_OP_3pl_Auxiliar_Administratiu_1r_i_2n_any_Questionari_Solucionari_Coneixements_AJUNT BARCELONA(6).pdf",
+      "resposta": "B",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "BARC-PARCS-2022-075",
+      "source": "2022_PARCS_09_OP_3pl_Auxiliar_Administratiu_1r_i_2n_any_Questionari_Solucionari_Coneixements_AJUNT BARCELONA(6).pdf",
+      "resposta": "C",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "BARC-PARCS-2022-071",
+      "source": "2022_PARCS_09_OP_3pl_Auxiliar_Administratiu_1r_i_2n_any_Questionari_Solucionari_Coneixements_AJUNT BARCELONA(6).pdf",
+      "resposta": "A",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "BARC-PARCS-2022-074",
+      "source": "2022_PARCS_09_OP_3pl_Auxiliar_Administratiu_1r_i_2n_any_Questionari_Solucionari_Coneixements_AJUNT BARCELONA(6).pdf",
+      "resposta": "B",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "BARC-PARCS-2022-076",
+      "source": "2022_PARCS_09_OP_3pl_Auxiliar_Administratiu_1r_i_2n_any_Questionari_Solucionari_Coneixements_AJUNT BARCELONA(6).pdf",
+      "resposta": "D",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "ROCA-ADM-3927-2025-R02",
+      "source": "Ajuntament de la Roca del Vallès — Administratius/ives 2025, 1a prova, Model A (3927)",
+      "resposta": "C",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "ROCA-ADM-3927-2025-R05",
+      "source": "Ajuntament de la Roca del Vallès — Administratius/ives 2025, 1a prova, Model A (3927)",
+      "resposta": "A",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "ROCA-ADM-3927-2025-2A-R02",
+      "source": "Ajuntament de la Roca del Vallès — Administratius/ives 2025, 2a prova, Model A (3927)",
+      "resposta": "C",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "ROCA-ADM-3927-2025-2A-R03",
+      "source": "Ajuntament de la Roca del Vallès — Administratius/ives 2025, 2a prova, Model A (3927)",
+      "resposta": "D",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "ROCA-ADM-3927-2025-2A-R04",
+      "source": "Ajuntament de la Roca del Vallès — Administratius/ives 2025, 2a prova, Model A (3927)",
+      "resposta": "D",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "ROCA-ADM-3927-2025-2A-R05",
+      "source": "Ajuntament de la Roca del Vallès — Administratius/ives 2025, 2a prova, Model A (3927)",
+      "resposta": "A",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "GRAN-DOCENTS-2024-M1-042",
+      "source": "A1 BORSA DOCENTS_granollers.pdf — Model 1",
+      "resposta": "A",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "GRAN-DOCENTS-2024-M1-043",
+      "source": "A1 BORSA DOCENTS_granollers.pdf — Model 1",
+      "resposta": "C",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "GRAN-DOCENTS-2024-M2-042",
+      "source": "A1 BORSA DOCENTS_granollers.pdf — Model 2",
+      "resposta": "A",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "GRAN-DOCENTS-2024-M2-043",
+      "source": "A1 BORSA DOCENTS_granollers.pdf — Model 2",
+      "resposta": "B",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "GRAN-TIT-UNIV-2023-M1-041",
+      "source": "A1 I A2 personal tècnic amb titulació universitària_ANY 2023_granollers.pdf",
+      "resposta": "B",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "GRAN-TIT-UNIV-2023-M1-042",
+      "source": "A1 I A2 personal tècnic amb titulació universitària_ANY 2023_granollers.pdf",
+      "resposta": "B",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "GRAN-SIST-INF-A1-R02",
+      "source": "A1 TECNIC SUPERIOR DE SISTEMES D'INFORMACIÓ(4).pdf",
+      "resposta": "D",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "CONS-GRA-A2-TAG-51",
+      "source": "Ajuntament de Granollers — Tècnic/a d’Administració General A2",
+      "resposta": "C",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "CONS-ARQ2025-R1",
+      "source": "Granollers - A2 Arquitecte/a Tècnic/a 19/2025/13",
+      "resposta": "A",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "CONS-ARQ2025-R3",
+      "source": "Granollers - A2 Arquitecte/a Tècnic/a 19/2025/13",
+      "resposta": "C",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "CONS-GRAN-A2-SALUT-2018-RES-001",
+      "source": "A2 TECNIC MITJA DE PROTECCIÓ DE SALUT PÚBLICA(4).pdf",
+      "resposta": "D",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": false,
+      "opcions_en_pdf": [],
+      "opcions_completes_en_algun_pdf": false,
+      "pendent_validacio_resposta_original": true
+    },
+    {
+      "id": "GRAN-TEI-2026-031",
+      "source": "personal docent tei(4).pdf",
+      "resposta": "B",
+      "nombre_opcions": 4,
+      "enunciat_localitzat": true,
+      "opcions_en_pdf": [
+        {
+          "pdf": "personal docent tei(4).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": true
+        },
+        {
+          "pdf": "personal docent grup A_any2022(4).pdf",
+          "opcions_localitzades": {
+            "A": true,
+            "B": true,
+            "C": true,
+            "D": true
+          },
+          "totes_les_opcions_localitzades": true
+        }
+      ],
+      "opcions_completes_en_algun_pdf": true,
+      "pendent_validacio_resposta_original": true
+    }
+  ],
+  "limitacions": [
+    "Cap resposta oficial no ha estat validada amb marques de color en aquesta passada.",
+    "Les opcions poden coincidir en una altra pregunta del mateix PDF.",
+    "La prova del navegador continua bloquejada per restriccions de l’entorn."
+  ]
+}

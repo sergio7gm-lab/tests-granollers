@@ -1,0 +1,1 @@
+Correcció: reserves no puntuables al final de cada examen; activacions oficials explícites conservades. Cap pregunta ni resposta modificada. Revisió funcional pendent de contrast complet.

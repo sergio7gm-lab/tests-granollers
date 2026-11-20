@@ -1,0 +1,1 @@
+v416: 67 reserves, 2234 registres conservats. Pràctica de reserves sense nota per evitar puntuacions basades en claus no contrastades. Cada reserva mostra estat documental segons auditoria v411-v413. 23 contrastades quant a enunciat/opcions, 44 pendents. Cap nova resposta oficial verificada en aquesta versió. Els tres perfils no han estat provats E2E al navegador.

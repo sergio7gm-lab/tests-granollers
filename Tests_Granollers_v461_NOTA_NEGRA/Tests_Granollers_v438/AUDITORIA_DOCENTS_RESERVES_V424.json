@@ -1,0 +1,24 @@
+{
+  "version": 424,
+  "source": "personal docent tei(4).pdf",
+  "page": 7,
+  "records": [
+    {
+      "id": "GRAN-TEI-2026-031",
+      "original_number": 31,
+      "marked_answer": "B",
+      "evidence": "ressaltat groc a la pàgina 7",
+      "result": "confirmat"
+    },
+    {
+      "id": "CONS-798",
+      "original_number": 32,
+      "result": "eliminat número de pàgina 7 de source_variants; discrepància oficial B vs correcció jurídica no oficial A preservada",
+      "official_answer_marked": "B",
+      "bank_answer": "A",
+      "warning": "No es certifica la correcció jurídica en aquesta passada"
+    }
+  ],
+  "total_records": 2234,
+  "limitations": "No s’ha auditat la resta de reserves en aquesta passada."
+}

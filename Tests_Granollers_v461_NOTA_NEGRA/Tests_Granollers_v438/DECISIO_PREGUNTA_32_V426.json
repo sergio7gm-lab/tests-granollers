@@ -1,0 +1,14 @@
+{
+  "version": 426,
+  "record": "CONS-798",
+  "official_pdf_question": 32,
+  "original_highlighted_answer": "B",
+  "highlight_confirmed_by_user": true,
+  "study_scoring_answer": "A",
+  "study_scoring_provenance": "correcció jurídica no oficial",
+  "sources": [
+    "personal docent grup A_any2022(4).pdf",
+    "personal docent tei(4).pdf"
+  ],
+  "note": "No es modifica el ressaltat del PDF; les variants conserven answer=B i original_pdf_answer=B. La selecció de l’examen empra study_answer=A per a la correcció. No s’han revalidat altres reserves."
+}

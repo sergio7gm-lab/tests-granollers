@@ -1,0 +1,160 @@
+{
+  "version": 432,
+  "source_pdf": "Model_examen_1a_prova_plantilla_A_-_Codi_3940_LAROCA(2).pdf",
+  "scope": "reserves 26-30 primera prova model 3940",
+  "checks": [
+    {
+      "number": 26,
+      "record_id": "ROCA-04-025",
+      "question_exact": true,
+      "question_bank": "Com es denomina el document mitjançant el qual els interessats posen en coneixement de l’Administració Pública competent les seves dades identificatives i altres requisits exigibles per l’exercici d’un dret o l’inici d’una activitat?",
+      "question_pdf": "Com es denomina el document mitjançant el qual els interessats posen en coneixement de l’Administració Pública competent les seves dades identificatives i altres requisits exigibles per l’exercici d’un dret o l’inici d’una activitat?",
+      "options": {
+        "A": {
+          "exact": true,
+          "bank": "Declaració responsable.",
+          "pdf": "Declaració responsable."
+        },
+        "B": {
+          "exact": true,
+          "bank": "Sol·licitud a instància de part.",
+          "pdf": "Sol·licitud a instància de part."
+        },
+        "C": {
+          "exact": true,
+          "bank": "Declaració jurada.",
+          "pdf": "Declaració jurada."
+        },
+        "D": {
+          "exact": true,
+          "bank": "Comunicació.",
+          "pdf": "Comunicació."
+        }
+      },
+      "bank_answer": "D"
+    },
+    {
+      "number": 27,
+      "record_id": "ROCA-04-026",
+      "question_exact": true,
+      "question_bank": "D'acord amb la Llei 7/1985, de 2 d'abril, reguladora de les bases del règim local, són elements del municipi:",
+      "question_pdf": "D'acord amb la Llei 7/1985, de 2 d'abril, reguladora de les bases del règim local, són elements del municipi:",
+      "options": {
+        "A": {
+          "exact": true,
+          "bank": "El territori, la població i l’organització.",
+          "pdf": "El territori, la població i l’organització."
+        },
+        "B": {
+          "exact": true,
+          "bank": "El padró d’habitants i el padró fiscal.",
+          "pdf": "El padró d’habitants i el padró fiscal."
+        },
+        "C": {
+          "exact": true,
+          "bank": "El pla general metropolità i el planejament derivat.",
+          "pdf": "El pla general metropolità i el planejament derivat."
+        },
+        "D": {
+          "exact": true,
+          "bank": "L’organització política i executiva",
+          "pdf": "L’organització política i executiva"
+        }
+      },
+      "bank_answer": "A"
+    },
+    {
+      "number": 28,
+      "record_id": "ROCA-3941-1A-027",
+      "question_exact": true,
+      "question_bank": "El període de prova tindrà un termini de:",
+      "question_pdf": "El període de prova tindrà un termini de:",
+      "options": {
+        "A": {
+          "exact": true,
+          "bank": "No inferior a cinc dies ni superior a trenta dies",
+          "pdf": "No inferior a cinc dies ni superior a trenta dies"
+        },
+        "B": {
+          "exact": true,
+          "bank": "No inferior a deu dies ni superior a vint dies",
+          "pdf": "No inferior a deu dies ni superior a vint dies"
+        },
+        "C": {
+          "exact": true,
+          "bank": "No inferior a deu dies ni superior a trenta dies",
+          "pdf": "No inferior a deu dies ni superior a trenta dies"
+        },
+        "D": {
+          "exact": true,
+          "bank": "No superior a cinc dies en els casos de període extraordinari de prova",
+          "pdf": "No superior a cinc dies en els casos de període extraordinari de prova"
+        }
+      },
+      "bank_answer": "C"
+    },
+    {
+      "number": 29,
+      "record_id": "ROCA-04-028",
+      "question_exact": true,
+      "question_bank": "Quan un funcionari es personi en un domicili per a fer una notificació i la persona interessada no sigui present al mateix, es podrà fer càrrec:",
+      "question_pdf": "Quan un funcionari es personi en un domicili per a fer una notificació i la persona interessada no sigui present al mateix, es podrà fer càrrec:",
+      "options": {
+        "A": {
+          "exact": true,
+          "bank": "Qualsevol altra persona present al domicili.",
+          "pdf": "Qualsevol altra persona present al domicili."
+        },
+        "B": {
+          "exact": true,
+          "bank": "Qualsevol altra persona present al domicili però només si és més gran de 14 anys.",
+          "pdf": "Qualsevol altra persona present al domicili però només si és més gran de 14 anys."
+        },
+        "C": {
+          "exact": true,
+          "bank": "Qualsevol altra persona present al domicili però només si és més gran de 16 anys.",
+          "pdf": "Qualsevol altra persona present al domicili però només si és més gran de 16 anys."
+        },
+        "D": {
+          "exact": true,
+          "bank": "Cap de les tres respostes anteriors és correcta.",
+          "pdf": "Cap de les tres respostes anteriors és correcta.",
+          "pdf_raw": "Cap de les tres respostes anteriors és correcta. Ajuntament de la Roca del Vallès Carrer de Catalunya, 24 08430 La Roca del Vallès Tel: 93 842 20 16 http://www.laroca.cat",
+          "extraction_note": "El text extret concatena el peu de pàgina després de l’opció D; el peu no forma part de la resposta."
+        }
+      },
+      "bank_answer": "B"
+    },
+    {
+      "number": 30,
+      "record_id": "ROCA-04-029",
+      "question_exact": true,
+      "question_bank": "Les fases del procediment administratiu són:",
+      "question_pdf": "Les fases del procediment administratiu són:",
+      "options": {
+        "A": {
+          "exact": true,
+          "bank": "Incoació, instrucció, finalització i seguiment.",
+          "pdf": "Incoació, instrucció, finalització i seguiment."
+        },
+        "B": {
+          "exact": true,
+          "bank": "Iniciació, instrucció, terminació i publicació.",
+          "pdf": "Iniciació, instrucció, terminació i publicació."
+        },
+        "C": {
+          "exact": true,
+          "bank": "Iniciació, ordenació, instrucció i finalització.",
+          "pdf": "Iniciació, ordenació, instrucció i finalització."
+        },
+        "D": {
+          "exact": true,
+          "bank": "Iniciació, ordenació, tràmit d’audiència i finalització.",
+          "pdf": "Iniciació, ordenació, tràmit d’audiència i finalització."
+        }
+      },
+      "bank_answer": "C"
+    }
+  ],
+  "limits": "Comparació del text extret, no verificació visual de marques de resposta. Les diferències no es corregeixen automàticament. El peu de pàgina detectat a la pregunta 29 s’exclou de la comparació, però es conserva el text brut a l’informe."
+}

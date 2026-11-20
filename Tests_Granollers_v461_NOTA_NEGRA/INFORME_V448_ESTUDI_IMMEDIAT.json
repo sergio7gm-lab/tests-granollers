@@ -1,0 +1,15 @@
+{
+  "versio": "448",
+  "base": "v447",
+  "registres": 2234,
+  "canvis": [
+    "Actualitzat el títol visible del navegador a v448",
+    "Afegida una guia d’inici immediat per estudiar amb les modalitats existents",
+    "Conservats sense canvis els registres, les claus i les dades de progrés local"
+  ],
+  "limitacions": [
+    "No s’ha certificat la literalitat dels 2234 registres",
+    "No s’han validat nous solucionaris oficials",
+    "Els PDF originals no consten en aquest ZIP com a corpus complet"
+  ]
+}

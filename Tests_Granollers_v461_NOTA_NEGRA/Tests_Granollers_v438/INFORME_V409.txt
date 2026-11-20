@@ -1,0 +1,7 @@
+Versio v409
+Banc: 2234 registres
+Reserves: 67 registres; 67 amb resposta existent entre les opcions.
+La reserva 51 de La Roca te 3 opcions al PDF original i es valida estructuralment.
+Enunciats diferents entre reserves: 65; grups amb repeticions: 2.
+Perfils: claus independents Sergio/Aitor/Sara; autoprova temporal reversible afegida.
+PENDENT: prova funcional completa al navegador i verificacio documental de totes les reserves amb els PDF.

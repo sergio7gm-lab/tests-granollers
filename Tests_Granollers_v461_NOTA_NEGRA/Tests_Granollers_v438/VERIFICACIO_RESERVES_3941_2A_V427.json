@@ -1,0 +1,53 @@
+{
+  "version": 427,
+  "source_pdf": "La_Roca_Examen_3941_2a_prova(2).pdf",
+  "verification_method": "Text de cada pregunta i totes les opcions contrastats a la pàgina corresponent; resposta marcada en negreta verificada mitjançant fonts dels fragments PDF",
+  "results": [
+    {
+      "question_number": 51,
+      "record_id": "ROCA-AUX-3941-P2-051",
+      "answer": "A",
+      "pdf_page": 12,
+      "enunciat_i_opcions_coincideixen": true,
+      "negreta_pdf_verificada": true,
+      "option_count": 3
+    },
+    {
+      "question_number": 52,
+      "record_id": "CONS-ECONPLACES_14",
+      "answer": "A",
+      "pdf_page": 12,
+      "enunciat_i_opcions_coincideixen": true,
+      "negreta_pdf_verificada": true,
+      "option_count": 4
+    },
+    {
+      "question_number": 53,
+      "record_id": "ROCA-06-050",
+      "answer": "D",
+      "pdf_page": 12,
+      "enunciat_i_opcions_coincideixen": true,
+      "negreta_pdf_verificada": true,
+      "option_count": 4
+    },
+    {
+      "question_number": 54,
+      "record_id": "CONS-ECONPLACES_21",
+      "answer": "B",
+      "pdf_page": 13,
+      "enunciat_i_opcions_coincideixen": true,
+      "negreta_pdf_verificada": true,
+      "option_count": 4
+    },
+    {
+      "question_number": 55,
+      "record_id": "ROCA-04-025",
+      "answer": "D",
+      "pdf_page": 13,
+      "enunciat_i_opcions_coincideixen": true,
+      "negreta_pdf_verificada": true,
+      "option_count": 4
+    }
+  ],
+  "note": "La comprovació és de cinc reserves, però no equival a cinc reserves noves verificades acumulades; la pregunta 51 ja estava contrastada a la v423. Cap pregunta ni resposta alterada."
+}

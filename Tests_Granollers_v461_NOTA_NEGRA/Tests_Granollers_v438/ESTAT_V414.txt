@@ -1,0 +1,1 @@
+Prova unitaria de separacio de perfils: SUPERADA amb localStorage simulat. Prova visual navegador: PENDENT. Reserves: 67 registres marcats, verificacio documental completa PENDENT.

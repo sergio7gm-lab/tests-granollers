@@ -1,0 +1,75 @@
+{
+  "version": 436,
+  "banc_registres": 2234,
+  "reserves_registres": 67,
+  "enunciats_unics_reserves": 65,
+  "grups_enunciat_repetit": [
+    {
+      "enunciat": "Què és el bossing?",
+      "registres": [
+        {
+          "id": "GRAN-DOCENTS-2024-M1-042",
+          "answer": "A",
+          "opcions": {
+            "A": "Es dona en l'entorn laboral i és la pressió exercida per una persona amb superioritat jeràrquica sobre una o més persones treballadores.",
+            "B": "És el procés de formació i assessorament als tutors i les tutores.",
+            "C": "Un comportament prolongat d'insult, rebuig social, intimidació i/o agressivitat física d’uns alumnes envers altres.",
+            "D": "Una forma de mediació en l'entorn escolar, a partir de la qual la figura del medidador adopta un rol de comandament."
+          },
+          "font": "A1 BORSA DOCENTS_granollers.pdf — Model 1"
+        },
+        {
+          "id": "GRAN-DOCENTS-2024-M2-042",
+          "answer": "A",
+          "opcions": {
+            "A": "Es dona en l'entorn laboral i és la pressió exercida per una persona amb superioritat jeràrquica sobre una o més persones treballadores.",
+            "B": "Un comportament prolongat d'insult, rebuig social, intimidació i/o agressivitat física d’uns alumnes envers altres.",
+            "C": "És el procés de formació i assessorament als tutors i les tutores.",
+            "D": "Una forma de mediació en l'entorn escolar, a partir de la qual la figura del medidador adopta un rol de comandament."
+          },
+          "font": "A1 BORSA DOCENTS_granollers.pdf — Model 2"
+        }
+      ],
+      "motiu_conservacio": "Les opcions no són idèntiques; cal preservar els models oficials."
+    },
+    {
+      "enunciat": "El preàmbul de la llei d’igualtat de tracte i no discriminació, parla d’anormalofòbia. A què es refereix?",
+      "registres": [
+        {
+          "id": "GRAN-DOCENTS-2024-M1-043",
+          "answer": "C",
+          "opcions": {
+            "A": "A la fòbia cap a les activitats socials de grans dimensions.",
+            "B": "A la tendència de les persones a normalitzar els comportaments en base a les normes socials.",
+            "C": "Al rebuig, tendència a l’aïllament, exclusió o eliminació que té la societat, cap a tot allò que és divers, diferent o no contingut.",
+            "D": "A la fòbia a la normalitat que pateixen les persones excèntriques."
+          },
+          "font": "A1 BORSA DOCENTS_granollers.pdf — Model 1"
+        },
+        {
+          "id": "GRAN-DOCENTS-2024-M2-043",
+          "answer": "B",
+          "opcions": {
+            "A": "A la tendència de les persones a normalitzar els comportaments en base a les normes socials.",
+            "B": "Al rebuig, tendència a l’aïllament, exclusió o eliminació que té la societat, cap a tot allò que és divers, diferent o no contingut.",
+            "C": "A la fòbia cap a les activitats socials de grans dimensions.",
+            "D": "A la fòbia a la normalitat que pateixen les persones excèntriques."
+          },
+          "font": "A1 BORSA DOCENTS_granollers.pdf — Model 2"
+        }
+      ],
+      "motiu_conservacio": "Les opcions no són idèntiques; cal preservar els models oficials."
+    }
+  ],
+  "procedencia_metadades": {
+    "validation o validation_source, no verificació nova": 35,
+    "key_origin o answer_source, no verificació nova": 9,
+    "answer_provenance explícita": 23
+  },
+  "observacions": [
+    "No s’han verificat nous PDF ni solucionaris en aquesta passada.",
+    "Les metadades de procedència són declaracions del banc, no prova documental independent.",
+    "La discrepància de Personal Docent 32 (PDF B, correcció d’estudi A) es manté.",
+    "El progrés 23/67 de la interfície correspon a l’inventari de contrast v411; no s’ha incrementat sense evidència nova."
+  ]
+}

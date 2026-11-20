@@ -1,0 +1,1 @@
+v458: Les exportacions de progrés identifiquen el perfil (Sergio, Aitor o Sara). En importar una còpia nova, es bloqueja si el perfil no coincideix. Les còpies antigues sense perfil continuen compatibles. Banc de preguntes i puntuació sense canvis. Comprovació estàtica; no prova completa del navegador.

@@ -1,0 +1,3 @@
+v436 — Control de duplicats i metadades de procedència.
+Banc: 2234; reserves: 67; enunciats únics: 65.
+No s’han modificat preguntes ni respostes.

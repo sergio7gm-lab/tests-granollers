@@ -1,0 +1,333 @@
+{
+  "reserves": [
+    {
+      "id": "CONS-ECONPLACES_14",
+      "examen": "Model_examen_2a_prova_plantilla_A_-_Codi_3940_LAROCA_desbloquejat(2).pdf",
+      "numero": 52,
+      "tema": 8,
+      "resposta": "A",
+      "opcio_existent": true,
+      "estat": "validada_solucionari_oficial",
+      "origen_clau": "solucionari_oficial_negreta_pdf",
+      "nota": "Resposta A verificada visualment en negreta al PDF oficial Model_examen_2a_prova_plantilla_A_-_Codi_3940_LAROCA_desbloquejat(2).pdf (pregunta 52). La resposta coincidia amb la proposta anterior, però ara disposa de prova documental oficial. Procedències anteriors conservades."
+    },
+    {
+      "id": "CONS-ECONPLACES_21",
+      "examen": "Model_examen_2a_prova_plantilla_A_-_Codi_3940_LAROCA_desbloquejat(2).pdf",
+      "numero": 54,
+      "tema": 10,
+      "resposta": "B",
+      "opcio_existent": true,
+      "estat": "validada_solucionari_oficial",
+      "origen_clau": "solucionari_oficial_negreta_pdf",
+      "nota": "Resposta B verificada visualment en negreta al PDF oficial Model_examen_2a_prova_plantilla_A_-_Codi_3940_LAROCA_desbloquejat(2).pdf (pregunta 54). La resposta coincidia amb la proposta anterior, però ara disposa de prova documental oficial. Procedències anteriors conservades."
+    },
+    {
+      "id": "CONS-798",
+      "examen": "personal docent tei(4).pdf",
+      "numero": 32,
+      "tema": 14,
+      "resposta": "A",
+      "opcio_existent": true,
+      "estat": "contrastada_pdf_amb_incidencia",
+      "origen_clau": "correccio_juridica_discrepancia_plantilla",
+      "nota": "INCIDÈNCIA: la plantilla del PDF ressalta B, però jurídicament és correcta A. Es conserva la discrepància documental; no s’ha de presentar B com a resposta vàlida."
+    },
+    {
+      "id": "CONS-798",
+      "examen": "personal docent grup A_any2022(4).pdf",
+      "numero": 32,
+      "tema": 14,
+      "resposta": "A",
+      "opcio_existent": true,
+      "estat": "contrastada_pdf_amb_incidencia",
+      "origen_clau": "correccio_juridica_discrepancia_plantilla",
+      "nota": "INCIDÈNCIA: la plantilla del PDF ressalta B, però jurídicament és correcta A. Es conserva la discrepància documental; no s’ha de presentar B com a resposta vàlida."
+    },
+    {
+      "id": "ROCA-01-009",
+      "examen": "Model_1r_exercici_TAG_189878W (1)(2).pdf",
+      "numero": 54,
+      "tema": 4,
+      "resposta": "C",
+      "opcio_existent": true,
+      "estat": "contrastada",
+      "origen_clau": "",
+      "nota": ""
+    },
+    {
+      "id": "ROCA-01-051",
+      "examen": "Model_1r_exercici_TAG_189878W (1)(2).pdf",
+      "numero": 51,
+      "tema": 1,
+      "resposta": "B",
+      "opcio_existent": true,
+      "estat": "validada_solucionari_oficial",
+      "origen_clau": "marca_negreta_pdf_original",
+      "nota": "Resposta B en negreta al PDF original codi 3940, pregunta 2."
+    },
+    {
+      "id": "ROCA-01-052",
+      "examen": "Model_1r_exercici_TAG_189878W (1)(2).pdf",
+      "numero": 52,
+      "tema": 7,
+      "resposta": "D",
+      "opcio_existent": true,
+      "estat": "validada_solucionari_oficial",
+      "origen_clau": "marca_negreta_pdf_original",
+      "nota": "Resposta D en negreta al PDF original codi 3940, pregunta 24."
+    },
+    {
+      "id": "ROCA-01-053",
+      "examen": "Model_1r_exercici_TAG_189878W (1)(2).pdf",
+      "numero": 53,
+      "tema": 10,
+      "resposta": "A",
+      "opcio_existent": true,
+      "estat": "contrastada",
+      "origen_clau": "",
+      "nota": ""
+    },
+    {
+      "id": "ROCA-01-055",
+      "examen": "Model_1r_exercici_TAG_189878W (1)(2).pdf",
+      "numero": 55,
+      "tema": 7,
+      "resposta": "A",
+      "opcio_existent": true,
+      "estat": "contrastada",
+      "origen_clau": "",
+      "nota": ""
+    },
+    {
+      "id": "ROCA-02-059",
+      "examen": "Examen_TAG_La_Roca_2(1).pdf",
+      "numero": 61,
+      "tema": 15,
+      "resposta": "A",
+      "opcio_existent": true,
+      "estat": "verificada_marca_pdf",
+      "origen_clau": "resposta_negreta_pdf_oficial",
+      "nota": "Resposta A marcada en negreta a la pregunta de reserva 61 del PDF oficial Examen_TAG_La_Roca_2(1).pdf (art. 7 LO 3/2018). Anteriorment estava etiquetada erròniament com a correcció pròpia, fet que n’excloïa la puntuació."
+    },
+    {
+      "id": "ROCA-02-060",
+      "examen": "Examen_TAG_La_Roca_2(1).pdf",
+      "numero": 62,
+      "tema": 9,
+      "resposta": "B",
+      "opcio_existent": true,
+      "estat": "contrastada_juridicament",
+      "origen_clau": "resposta_negreta_pdf_oficial",
+      "nota": ""
+    },
+    {
+      "id": "ROCA-02-061",
+      "examen": "Examen_TAG_La_Roca_2(1).pdf",
+      "numero": 63,
+      "tema": 11,
+      "resposta": "D",
+      "opcio_existent": true,
+      "estat": "verificada_marca_pdf",
+      "origen_clau": "resposta_negreta_pdf_oficial",
+      "nota": "Opció A en negreta a Model_2n_exercici_TAG_189878W_LA_ROCA_desbloquejat.pdf, pàgina 15. Revisió de la marca tipogràfica; literalitat pendent d'auditoria visual. | Discrepància entre registres: preval la resposta en negreta del PDF oficial Examen_TAG_La_Roca_2(1).pdf (pregunta 63)."
+    },
+    {
+      "id": "ROCA-04-025",
+      "examen": "Model_examen_2a_prova_plantilla_A_-_Codi_3940_LAROCA_desbloquejat(2).pdf",
+      "numero": 51,
+      "tema": 7,
+      "resposta": "D",
+      "opcio_existent": true,
+      "estat": "validada_solucionari_oficial",
+      "origen_clau": "solucionari_oficial_negreta_pdf",
+      "nota": "Resposta D en negreta al PDF original codi 3940, pregunta 26."
+    },
+    {
+      "id": "ROCA-04-025",
+      "examen": "Model_examen_1a_prova_plantilla_A_-_Codi_3940_LAROCA(2).pdf",
+      "numero": 26,
+      "tema": 7,
+      "resposta": "D",
+      "opcio_existent": true,
+      "estat": "validada_solucionari_oficial",
+      "origen_clau": "solucionari_oficial_negreta_pdf",
+      "nota": "Resposta D en negreta al PDF original codi 3940, pregunta 26."
+    },
+    {
+      "id": "ROCA-04-026",
+      "examen": "Model_examen_1a_prova_plantilla_A_-_Codi_3940_LAROCA(2).pdf",
+      "numero": 27,
+      "tema": 4,
+      "resposta": "A",
+      "opcio_existent": true,
+      "estat": "validada_solucionari_oficial",
+      "origen_clau": "marca_negreta_pdf_original",
+      "nota": "Resposta A en negreta al PDF original codi 3940, pregunta 27."
+    },
+    {
+      "id": "ROCA-04-028",
+      "examen": "Model_examen_1a_prova_plantilla_A_-_Codi_3941_LAROCA_desbloquejat(2).pdf",
+      "numero": 28,
+      "tema": 11,
+      "resposta": "B",
+      "opcio_existent": true,
+      "estat": "validada_solucionari_oficial",
+      "origen_clau": "marca_negreta_pdf_original",
+      "nota": "Resposta B en negreta al PDF original codi 3940, pregunta 29."
+    },
+    {
+      "id": "ROCA-04-028",
+      "examen": "Model_examen_1a_prova_plantilla_A_-_Codi_3940_LAROCA(2).pdf",
+      "numero": 29,
+      "tema": 11,
+      "resposta": "B",
+      "opcio_existent": true,
+      "estat": "validada_solucionari_oficial",
+      "origen_clau": "marca_negreta_pdf_original",
+      "nota": "Resposta B en negreta al PDF original codi 3940, pregunta 29."
+    },
+    {
+      "id": "ROCA-04-029",
+      "examen": "Model_examen_1a_prova_plantilla_A_-_Codi_3941_LAROCA_desbloquejat(2).pdf",
+      "numero": 29,
+      "tema": 7,
+      "resposta": "C",
+      "opcio_existent": true,
+      "estat": "validada_solucionari_oficial",
+      "origen_clau": "marca_negreta_pdf_original",
+      "nota": "Resposta C en negreta al PDF original codi 3940, pregunta 30."
+    },
+    {
+      "id": "ROCA-04-029",
+      "examen": "Model_examen_1a_prova_plantilla_A_-_Codi_3940_LAROCA(2).pdf",
+      "numero": 30,
+      "tema": 7,
+      "resposta": "C",
+      "opcio_existent": true,
+      "estat": "validada_solucionari_oficial",
+      "origen_clau": "marca_negreta_pdf_original",
+      "nota": "Resposta C en negreta al PDF original codi 3940, pregunta 30."
+    },
+    {
+      "id": "ROCA-05-025",
+      "examen": "Model_examen_2a_prova_plantilla_A_-_Codi_3940_LAROCA_desbloquejat(2).pdf",
+      "numero": 55,
+      "tema": 1,
+      "resposta": "A",
+      "opcio_existent": true,
+      "estat": "verificada_marca_pdf",
+      "origen_clau": "marca_negreta_pdf_original",
+      "nota": ""
+    },
+    {
+      "id": "ROCA-05-025",
+      "examen": "Model_examen_1a_prova_plantilla_A_-_Codi_3941_LAROCA_desbloquejat(2).pdf",
+      "numero": 26,
+      "tema": 1,
+      "resposta": "A",
+      "opcio_existent": true,
+      "estat": "verificada_marca_pdf",
+      "origen_clau": "marca_negreta_pdf_original",
+      "nota": ""
+    },
+    {
+      "id": "ROCA-06-050",
+      "examen": "Model_examen_2a_prova_plantilla_A_-_Codi_3940_LAROCA_desbloquejat(2).pdf",
+      "numero": 53,
+      "tema": 8,
+      "resposta": "D",
+      "opcio_existent": true,
+      "estat": "validada_solucionari_oficial",
+      "origen_clau": "solucionari_oficial_negreta_pdf",
+      "nota": ""
+    },
+    {
+      "id": "ROCA-3941-1A-027",
+      "examen": "Model_examen_1a_prova_plantilla_A_-_Codi_3941_LAROCA_desbloquejat(2).pdf",
+      "numero": 27,
+      "tema": 7,
+      "resposta": "C",
+      "opcio_existent": true,
+      "estat": "validada_solucionari_oficial",
+      "origen_clau": "marca_negreta_pdf_original",
+      "nota": "Resposta C en negreta al PDF original codi 3940, pregunta 28."
+    },
+    {
+      "id": "ROCA-3941-1A-027",
+      "examen": "Model_examen_1a_prova_plantilla_A_-_Codi_3940_LAROCA(2).pdf",
+      "numero": 28,
+      "tema": 7,
+      "resposta": "C",
+      "opcio_existent": true,
+      "estat": "validada_solucionari_oficial",
+      "origen_clau": "marca_negreta_pdf_original",
+      "nota": "Resposta C en negreta al PDF original codi 3940, pregunta 28."
+    },
+    {
+      "id": "ROCA-3941-1A-030",
+      "examen": "Model_examen_1a_prova_plantilla_A_-_Codi_3941_LAROCA_desbloquejat(2).pdf",
+      "numero": 30,
+      "tema": 7,
+      "resposta": "C",
+      "opcio_existent": true,
+      "estat": "verificada_marca_pdf",
+      "origen_clau": "marca_negreta_pdf_original",
+      "nota": "Opció C en negreta a Model_examen_1a_prova_plantilla_A_-_Codi_3941_LAROCA_desbloquejat.pdf, pàgina 7. Revisió de la marca tipogràfica; literalitat pendent d'auditoria visual."
+    },
+    {
+      "id": "LAROCA-TAG-189878W-2N-064",
+      "examen": "Examen_TAG_La_Roca_2(1).pdf",
+      "numero": 64,
+      "tema": 7,
+      "resposta": "B",
+      "opcio_existent": true,
+      "estat": "verificada_marca_pdf",
+      "origen_clau": "resposta_negreta_pdf_oficial",
+      "nota": "Opció B en negreta a Model_2n_exercici_TAG_189878W_LA_ROCA_desbloquejat.pdf, pàgina 15. Revisió de la marca tipogràfica; literalitat pendent d'auditoria visual."
+    },
+    {
+      "id": "LAROCA-TAG-189878W-2N-065",
+      "examen": "Examen_TAG_La_Roca_2(1).pdf",
+      "numero": 65,
+      "tema": 7,
+      "resposta": "B",
+      "opcio_existent": true,
+      "estat": "verificada_marca_pdf",
+      "origen_clau": "resposta_negreta_pdf_oficial",
+      "nota": "Opció B en negreta a Model_2n_exercici_TAG_189878W_LA_ROCA_desbloquejat.pdf, pàgina 15. Revisió de la marca tipogràfica; literalitat pendent d'auditoria visual."
+    },
+    {
+      "id": "GRAN-TEI-2026-031",
+      "examen": "personal docent tei(4).pdf",
+      "numero": 31,
+      "tema": 13,
+      "resposta": "B",
+      "opcio_existent": true,
+      "estat": "validada_solucionari_documental",
+      "origen_clau": "oficial_marca_groga_pdf",
+      "nota": "Resposta transcrita del ressaltat groc del PDF personal docent tei(4).pdf."
+    },
+    {
+      "id": "GRAN-TEI-2026-031",
+      "examen": "personal docent grup A_any2022(4).pdf",
+      "numero": 31,
+      "tema": 13,
+      "resposta": "B",
+      "opcio_existent": true,
+      "estat": "validada_solucionari_documental",
+      "origen_clau": "oficial_marca_groga_pdf",
+      "nota": "Resposta transcrita del ressaltat groc del PDF personal docent tei(4).pdf."
+    }
+  ],
+  "resum": {
+    "base": "v400",
+    "versio": "v401",
+    "total_registres": 2234,
+    "reserves_registres": 22,
+    "reserves_vinculacions": 29,
+    "reserves_amb_clau_present": 29,
+    "sense_clau": 33,
+    "advertiment": "La presència d’una clau no certifica la seva correcció jurídica ni el contrast amb el solucionari oficial. No s’han inventat respostes."
+  }
+}

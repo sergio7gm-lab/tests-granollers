@@ -1,0 +1,9 @@
+AUDITORIA V406 — RESERVES
+
+Problema confirmat a v405: la pràctica de reserves només seleccionava registres amb exam_memberships[].reserve=true i ometia els registres amb reserve=true.
+
+Recompte: 26 reserves amb marca directa; 22 amb vinculació de reserva (29 vinculacions); 48 registres de reserva en total, sense solapament entre grups.
+
+Correcció: la pantalla Practicar reserves ara admet tots dos formats. Els registres originals i les seves respostes no han canviat.
+
+PENDENT: contrastar amb tots els PDF originals l'exhaustivitat de les reserves, les solucions i les quatre opcions. No s'ha de considerar aquesta comprovació estructural una certificació documental.

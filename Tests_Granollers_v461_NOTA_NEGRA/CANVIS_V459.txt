@@ -1,0 +1,1 @@
+V459: resultat de sessió plegat per defecte; correcció immediata o final als exàmens oficials i als tests per tema; noms abreujats al selector de temes. Conserva la còpia JSON del progrés abans de provar una versió nova.

@@ -1,0 +1,81 @@
+{
+  "version": "v415",
+  "reserves_totals": 67,
+  "enunciats_amb_coincidencia_documental_local": 23,
+  "pendents_de_comprovacio_documental": 44,
+  "documents_o_fonts_pendents": [
+    {
+      "origen": "Ajuntament de Barcelona — Subgrup A1, test temari comú (01/03/2025)",
+      "registres": 5
+    },
+    {
+      "origen": "Granollers - A1 Tècnic/a Superior Administració General (Serveis Jurídics)",
+      "registres": 5
+    },
+    {
+      "origen": "2022_PARCS_09_OP_3pl_Auxiliar_Administratiu_1r_i_2n_any_Questionari_Solucionari_Coneixements_AJUNT BARCELONA(6).pdf",
+      "registres": 5
+    },
+    {
+      "origen": "Examen A1 Tècnic/a Superior Economista Granollers",
+      "registres": 4
+    },
+    {
+      "origen": "Ajuntament de la Roca del Vallès — Administratius/ives 2025, 2a prova, Model A (3927)",
+      "registres": 4
+    },
+    {
+      "origen": "Granollers - Borsa Tècnic/a Superior Dret 2022",
+      "registres": 3
+    },
+    {
+      "origen": "Ajuntament de Granollers — Tècnic/a d’Administració General A2",
+      "registres": 3
+    },
+    {
+      "origen": "Plantilla_prova_teorica_2_TAG_155982R_LAROCA(4).pdf",
+      "registres": 2
+    },
+    {
+      "origen": "Ajuntament de la Roca del Vallès — Administratius/ives 2025, 1a prova, Model A (3927)",
+      "registres": 2
+    },
+    {
+      "origen": "A1 BORSA DOCENTS_granollers.pdf — Model 1",
+      "registres": 2
+    },
+    {
+      "origen": "A1 BORSA DOCENTS_granollers.pdf — Model 2",
+      "registres": 2
+    },
+    {
+      "origen": "A1 I A2 personal tècnic amb titulació universitària_ANY 2023_granollers.pdf",
+      "registres": 2
+    },
+    {
+      "origen": "Granollers - A2 Arquitecte/a Tècnic/a 19/2025/13",
+      "registres": 2
+    },
+    {
+      "origen": "A2 ENGINYER TECNICOBRA PÚBLICA(4).pdf",
+      "registres": 1
+    },
+    {
+      "origen": "A1 TECNIC SUPERIOR DE SISTEMES D'INFORMACIÓ(4).pdf",
+      "registres": 1
+    },
+    {
+      "origen": "A2 TECNIC MITJA DE PROTECCIÓ DE SALUT PÚBLICA(4).pdf",
+      "registres": 1
+    }
+  ],
+  "canvis_app": [
+    "S’ha eliminat l’afirmació no acreditada que totes les respostes de reserva estan contrastades.",
+    "S’avisa que la puntuació de pràctica de reserves és provisional fins a validar solucionaris."
+  ],
+  "limitacions": [
+    "No s’han verificat nous solucionaris oficials en aquesta passada.",
+    "La correspondència de 23 enunciats i opcions no equival a certificar les respostes.",
+    "La prova E2E de navegació dels tres perfils continua pendent."
+  ]
+}

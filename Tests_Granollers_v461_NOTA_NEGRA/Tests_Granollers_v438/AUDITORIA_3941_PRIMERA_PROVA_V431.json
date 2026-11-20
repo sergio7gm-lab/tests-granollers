@@ -1,0 +1,163 @@
+{
+  "version": 431,
+  "source_pdf": "Model_examen_1a_prova_plantilla_A_-_Codi_3941_LAROCA_desbloquejat(2).pdf",
+  "scope": "preguntes de reserva 26–30, primera prova 3941",
+  "checks": [
+    {
+      "number": 26,
+      "record_id": "ROCA-05-025",
+      "pdf_page": 6,
+      "question_exact": true,
+      "question_bank": "Com s’anomena l’alt comissionat de les Corts Generals que supervisa l’activitat de l’administració, donant-ne comptes a les Corts Generals?",
+      "question_pdf": "Com s’anomena l’alt comissionat de les Corts Generals que supervisa l’activitat de l’administració, donant-ne comptes a les Corts Generals?",
+      "options": {
+        "A": {
+          "exact": true,
+          "bank": "Defensor del Poble.",
+          "pdf": "Defensor del Poble."
+        },
+        "B": {
+          "exact": true,
+          "bank": "Síndic de Greuges.",
+          "pdf": "Síndic de Greuges."
+        },
+        "C": {
+          "exact": true,
+          "bank": "President del Govern.",
+          "pdf": "President del Govern."
+        },
+        "D": {
+          "exact": true,
+          "bank": "Delegat del Govern.",
+          "pdf": "Delegat del Govern."
+        }
+      },
+      "bank_answer": "A"
+    },
+    {
+      "number": 27,
+      "record_id": "ROCA-3941-1A-027",
+      "pdf_page": 7,
+      "question_exact": true,
+      "question_bank": "El període de prova tindrà un termini de:",
+      "question_pdf": "El període de prova tindrà un termini de:",
+      "options": {
+        "A": {
+          "exact": true,
+          "bank": "No inferior a cinc dies ni superior a trenta dies",
+          "pdf": "No inferior a cinc dies ni superior a trenta dies"
+        },
+        "B": {
+          "exact": true,
+          "bank": "No inferior a deu dies ni superior a vint dies",
+          "pdf": "No inferior a deu dies ni superior a vint dies"
+        },
+        "C": {
+          "exact": true,
+          "bank": "No inferior a deu dies ni superior a trenta dies",
+          "pdf": "No inferior a deu dies ni superior a trenta dies"
+        },
+        "D": {
+          "exact": true,
+          "bank": "No superior a cinc dies en els casos de període extraordinari de prova",
+          "pdf": "No superior a cinc dies en els casos de període extraordinari de prova"
+        }
+      },
+      "bank_answer": "C"
+    },
+    {
+      "number": 28,
+      "record_id": "ROCA-04-028",
+      "pdf_page": 7,
+      "question_exact": true,
+      "question_bank": "Quan un funcionari es personi en un domicili per a fer una notificació i la persona interessada no sigui present al mateix, es podrà fer càrrec:",
+      "question_pdf": "Quan un funcionari es personi en un domicili per a fer una notificació i la persona interessada no sigui present al mateix, es podrà fer càrrec:",
+      "options": {
+        "A": {
+          "exact": true,
+          "bank": "Qualsevol altra persona present al domicili.",
+          "pdf": "Qualsevol altra persona present al domicili."
+        },
+        "B": {
+          "exact": true,
+          "bank": "Qualsevol altra persona present al domicili però només si és més gran de 14 anys.",
+          "pdf": "Qualsevol altra persona present al domicili però només si és més gran de 14 anys."
+        },
+        "C": {
+          "exact": true,
+          "bank": "Qualsevol altra persona present al domicili però només si és més gran de 16 anys.",
+          "pdf": "Qualsevol altra persona present al domicili però només si és més gran de 16 anys."
+        },
+        "D": {
+          "exact": true,
+          "bank": "Cap de les tres respostes anteriors és correcta.",
+          "pdf": "Cap de les tres respostes anteriors és correcta."
+        }
+      },
+      "bank_answer": "B"
+    },
+    {
+      "number": 29,
+      "record_id": "ROCA-04-029",
+      "pdf_page": 7,
+      "question_exact": true,
+      "question_bank": "Les fases del procediment administratiu són:",
+      "question_pdf": "Les fases del procediment administratiu són:",
+      "options": {
+        "A": {
+          "exact": true,
+          "bank": "Incoació, instrucció, finalització i seguiment.",
+          "pdf": "Incoació, instrucció, finalització i seguiment."
+        },
+        "B": {
+          "exact": true,
+          "bank": "Iniciació, instrucció, terminació i publicació.",
+          "pdf": "Iniciació, instrucció, terminació i publicació."
+        },
+        "C": {
+          "exact": true,
+          "bank": "Iniciació, ordenació, instrucció i finalització.",
+          "pdf": "Iniciació, ordenació, instrucció i finalització."
+        },
+        "D": {
+          "exact": true,
+          "bank": "Iniciació, ordenació, tràmit d’audiència i finalització.",
+          "pdf": "Iniciació, ordenació, tràmit d’audiència i finalització."
+        }
+      },
+      "bank_answer": "C"
+    },
+    {
+      "number": 30,
+      "record_id": "ROCA-3941-1A-030",
+      "pdf_page": 7,
+      "question_exact": true,
+      "question_bank": "D’acord amb l’article 125.1 de la Llei 39/2015, l’objecte del recurs extraordinari de revisió seran:",
+      "question_pdf": "D’acord amb l’article 125.1 de la Llei 39/2015, l’objecte del recurs extraordinari de revisió seran:",
+      "options": {
+        "A": {
+          "exact": true,
+          "bank": "Els actes i disposicions ferms en via administrativa.",
+          "pdf": "Els actes i disposicions ferms en via administrativa."
+        },
+        "B": {
+          "exact": true,
+          "bank": "Els actes que no posin fi a la via administrativa.",
+          "pdf": "Els actes que no posin fi a la via administrativa."
+        },
+        "C": {
+          "exact": true,
+          "bank": "Els actes ferms en via administrativa.",
+          "pdf": "Els actes ferms en via administrativa."
+        },
+        "D": {
+          "exact": true,
+          "bank": "Els actes i disposicions que no hagin estat recorreguts en via contenciosa administrativa.",
+          "pdf": "Els actes i disposicions que no hagin estat recorreguts en via contenciosa administrativa."
+        }
+      },
+      "bank_answer": "C"
+    }
+  ],
+  "limits": "Comparació amb text extret del PDF, espais normalitzats. No certifica la negreta ni les respostes oficials."
+}

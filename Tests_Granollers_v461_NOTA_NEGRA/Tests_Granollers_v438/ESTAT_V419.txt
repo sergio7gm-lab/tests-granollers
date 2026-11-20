@@ -1,0 +1,1 @@
+2234 registres. 67 registres marcats com a reserva. 15 reserves verificades directament a les passades v417, v418 i v419 (5+5+5); resten 52 sense comprovacio equivalent en aquestes passades. No s'han executat proves completes de navegador.

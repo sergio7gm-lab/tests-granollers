@@ -1,0 +1,100 @@
+{
+  "pdf": "Model_2n_exercici_TAG_189878W_LA_ROCA_desbloquejat(2).pdf",
+  "verificades": 7,
+  "reserves_verificades": 5,
+  "ordinàries_verificades": 2,
+  "preguntes": [
+    {
+      "numero_original": 59,
+      "id": "ROCA-02-057",
+      "resposta_oficial": "A",
+      "pagina_pdf": 14,
+      "metode": "opcio en negreta identificada als spans del PDF original",
+      "opciones_negreta": {
+        "A": true,
+        "B": false,
+        "C": false,
+        "D": false
+      }
+    },
+    {
+      "numero_original": 60,
+      "id": "ROCA-02-058",
+      "resposta_oficial": "B",
+      "pagina_pdf": 14,
+      "metode": "opcio en negreta identificada als spans del PDF original",
+      "opciones_negreta": {
+        "A": false,
+        "B": true,
+        "C": false,
+        "D": false
+      }
+    },
+    {
+      "numero_original": 61,
+      "id": "ROCA-02-059",
+      "resposta_oficial": "A",
+      "pagina_pdf": 15,
+      "metode": "opcio en negreta identificada als spans del PDF original",
+      "opciones_negreta": {
+        "A": true,
+        "B": false,
+        "C": false,
+        "D": false
+      }
+    },
+    {
+      "numero_original": 62,
+      "id": "ROCA-02-060",
+      "resposta_oficial": "B",
+      "pagina_pdf": 15,
+      "metode": "opcio en negreta identificada als spans del PDF original",
+      "opciones_negreta": {
+        "A": false,
+        "B": true,
+        "C": false,
+        "D": false
+      }
+    },
+    {
+      "numero_original": 63,
+      "id": "ROCA-02-061",
+      "resposta_oficial": "D",
+      "pagina_pdf": 15,
+      "metode": "opcio en negreta identificada als spans del PDF original",
+      "opciones_negreta": {
+        "A": false,
+        "B": false,
+        "C": false,
+        "D": true
+      }
+    },
+    {
+      "numero_original": 64,
+      "id": "LAROCA-TAG-189878W-2N-064",
+      "resposta_oficial": "B",
+      "pagina_pdf": 15,
+      "metode": "opcio en negreta identificada als spans del PDF original",
+      "opciones_negreta": {
+        "A": false,
+        "B": true,
+        "C": false,
+        "D": false
+      }
+    },
+    {
+      "numero_original": 65,
+      "id": "LAROCA-TAG-189878W-2N-065",
+      "resposta_oficial": "B",
+      "pagina_pdf": 15,
+      "metode": "opcio en negreta identificada als spans del PDF original",
+      "opciones_negreta": {
+        "A": false,
+        "B": true,
+        "C": false,
+        "D": false
+      }
+    }
+  ],
+  "limitacio": "No implica auditoria de la resta de reserves ni prova E2E de navegador."
+}

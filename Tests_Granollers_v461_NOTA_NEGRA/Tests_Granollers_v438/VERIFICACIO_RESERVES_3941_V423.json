@@ -1,0 +1,39 @@
+{
+  "verified_this_version": 3,
+  "records": [
+    {
+      "id": "ROCA-AUX-3941-P2-051",
+      "source_pdf": "La_Roca_Examen_3941_2a_prova(2).pdf",
+      "page": 12,
+      "question_number": 51,
+      "official_marked_answer": "A",
+      "answer_in_bank": "A",
+      "method": "inspecció tipogràfica de spans del PDF: Helvetica,Bold",
+      "options_count": 3
+    },
+    {
+      "id": "ROCA-3941-1A-027",
+      "source_pdf": "Model_examen_1a_prova_plantilla_A_-_Codi_3941_LAROCA_desbloquejat(2).pdf",
+      "page": 7,
+      "question_number": 27,
+      "official_marked_answer": "C",
+      "answer_in_bank": "C",
+      "method": "inspecció tipogràfica de spans del PDF: Helvetica,Bold",
+      "options_count": 4
+    },
+    {
+      "id": "ROCA-3941-1A-030",
+      "source_pdf": "Model_examen_1a_prova_plantilla_A_-_Codi_3941_LAROCA_desbloquejat(2).pdf",
+      "page": 7,
+      "question_number": 30,
+      "official_marked_answer": "C",
+      "answer_in_bank": "C",
+      "method": "inspecció tipogràfica de spans del PDF: Helvetica,Bold",
+      "options_count": 4
+    }
+  ],
+  "notes": [
+    "Aquesta passada només verifica tres respostes en negreta; no implica que totes les altres reserves estiguin auditades.",
+    "Pregunta 51 de la segona prova: només tres opcions A, B i C al PDF original."
+  ]
+}

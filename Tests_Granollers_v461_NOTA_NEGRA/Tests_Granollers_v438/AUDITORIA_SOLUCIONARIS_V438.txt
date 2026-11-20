@@ -1,0 +1,7 @@
+AUDITORIA v438 — 20/11/2026
+Base: v437 (2234 registres)
+
+SISTEMES D’INFORMACIÓ: reserva 1 C (corregida de B), reserva 2 D (coincident), reserva 3 C (coincident). La reserva 1 tenia una contradicció entre la clau B i la nota jurídica que ja citava el BOE.
+SALUT PÚBLICA: reserva 1 D (coincident); reserves 2 D, 3 C i 4 C segons la imatge groga aportada. Aquestes tres últimes no s'incorporen al banc A1/A2 perquè són temàtica específica de salut pública, fora dels 15 temes.
+
+La comparació literal global dels 16 PDF no està completada. No s'ha modificat cap enunciat ni opció.

@@ -1,0 +1,23 @@
+AUDITORIA V452 — AGRUPACIÓ DOCUMENTAL DE RESERVES
+Base: v451; sense alteracions a les preguntes o a l’aplicació.
+Reserves pendents: 54
+Coincidències amb fonts pendents v437: 25
+Aquest informe NO acredita la correcció de les vinculacions.
+
+AGRUPACIÓ PER FONT:
+29 | FONT NO IDENTIFICADA A L’INFORME V437
+ 4 | Examen A1 Tècnic/a Superior Economista Granollers
+ 3 | Granollers - Borsa Tècnic/a Superior Dret 2022
+ 3 | Ajuntament de Granollers — Tècnic/a d’Administració General A2
+ 2 | Plantilla_prova_teorica_2_TAG_155982R_LAROCA(4).pdf
+ 2 | Ajuntament de la Roca del Vallès — Administratius/ives 2025, 1a prova, Model A (3927)
+ 2 | A1 BORSA DOCENTS_granollers.pdf — Model 1
+ 2 | A1 BORSA DOCENTS_granollers.pdf — Model 2
+ 2 | A1 I A2 personal tècnic amb titulació universitària_ANY 2023_granollers.pdf
+ 2 | Granollers - A2 Arquitecte/a Tècnic/a 19/2025/13
+ 1 | A2 ENGINYER TECNICOBRA PÚBLICA(4).pdf
+ 1 | A1 TECNIC SUPERIOR DE SISTEMES D'INFORMACIÓ(4).pdf
+ 1 | A2 TECNIC MITJA DE PROTECCIÓ DE SALUT PÚBLICA(4).pdf
+
+PROPER PAS: obtenir els PDF originals d’aquestes fonts i verificar les vinculacions individualment.
+Les preguntes sense contrast no s’han de marcar com a auditades.

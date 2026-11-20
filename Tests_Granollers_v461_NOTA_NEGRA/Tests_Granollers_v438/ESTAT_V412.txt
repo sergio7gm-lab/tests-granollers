@@ -1,0 +1,9 @@
+{
+  "reserves": 67,
+  "enunciats_localitzats": 23,
+  "enunciats_i_totes_opcions_localitzades": 22,
+  "pdf_no_localitzat_o_no_coincident": 44,
+  "tres_opcions": 1,
+  "quatre_opcions": 66
+}
+No és una certificació de les respostes oficials ni dels perfils.

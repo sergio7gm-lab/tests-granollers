@@ -1,0 +1,167 @@
+{
+  "version": "422",
+  "date": "2026-11-20",
+  "tests": "9 visites en Chromium amb emmagatzematge simulat compartit; alternança Sergio/Aitor/Sara i recuperació de dades",
+  "result": "superat",
+  "steps": [
+    {
+      "profile": "1",
+      "before": {
+        "name": "Sergio · historial existent",
+        "used": 0,
+        "hist": 0,
+        "errors": 0,
+        "favorites": 0
+      },
+      "after": {
+        "used": 65,
+        "hist": 1,
+        "errors": 0,
+        "favorites": 0
+      },
+      "js_errors": []
+    },
+    {
+      "profile": "2",
+      "before": {
+        "name": "Aitor",
+        "used": 0,
+        "hist": 0,
+        "errors": 0,
+        "favorites": 0
+      },
+      "after": {
+        "used": 0,
+        "hist": 0,
+        "errors": 0,
+        "favorites": 0
+      },
+      "js_errors": []
+    },
+    {
+      "profile": "3",
+      "before": {
+        "name": "Sara",
+        "used": 0,
+        "hist": 0,
+        "errors": 0,
+        "favorites": 0
+      },
+      "after": {
+        "used": 0,
+        "hist": 0,
+        "errors": 0,
+        "favorites": 0
+      },
+      "js_errors": []
+    },
+    {
+      "profile": "2",
+      "before": {
+        "name": "Aitor",
+        "used": 0,
+        "hist": 0,
+        "errors": 0,
+        "favorites": 0
+      },
+      "after": {
+        "used": 65,
+        "hist": 1,
+        "errors": 0,
+        "favorites": 0
+      },
+      "js_errors": []
+    },
+    {
+      "profile": "1",
+      "before": {
+        "name": "Sergio · historial existent",
+        "used": 65,
+        "hist": 1,
+        "errors": 0,
+        "favorites": 0
+      },
+      "after": {
+        "used": 65,
+        "hist": 1,
+        "errors": 0,
+        "favorites": 0
+      },
+      "js_errors": []
+    },
+    {
+      "profile": "3",
+      "before": {
+        "name": "Sara",
+        "used": 0,
+        "hist": 0,
+        "errors": 0,
+        "favorites": 0
+      },
+      "after": {
+        "used": 65,
+        "hist": 1,
+        "errors": 0,
+        "favorites": 0
+      },
+      "js_errors": []
+    },
+    {
+      "profile": "2",
+      "before": {
+        "name": "Aitor",
+        "used": 65,
+        "hist": 1,
+        "errors": 0,
+        "favorites": 0
+      },
+      "after": {
+        "used": 65,
+        "hist": 1,
+        "errors": 0,
+        "favorites": 0
+      },
+      "js_errors": []
+    },
+    {
+      "profile": "3",
+      "before": {
+        "name": "Sara",
+        "used": 65,
+        "hist": 1,
+        "errors": 0,
+        "favorites": 0
+      },
+      "after": {
+        "used": 65,
+        "hist": 1,
+        "errors": 0,
+        "favorites": 0
+      },
+      "js_errors": []
+    },
+    {
+      "profile": "1",
+      "before": {
+        "name": "Sergio · historial existent",
+        "used": 65,
+        "hist": 1,
+        "errors": 0,
+        "favorites": 0
+      },
+      "after": {
+        "used": 65,
+        "hist": 1,
+        "errors": 0,
+        "favorites": 0
+      },
+      "js_errors": []
+    }
+  ],
+  "change": "Exportació de progrés amb nom del perfil per evitar sobreescriure accidentalment còpies entre perfils",
+  "limitations": [
+    "No equival a prova amb persistència nativa en disc o en un dispositiu real",
+    "Reserves pendents de verificació oficial: 52 segons informe v419",
+    "No s’ha auditat completament tot el banc de 2234 registres"
+  ]
+}

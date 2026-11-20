@@ -1,0 +1,53 @@
+{
+  "version": 428,
+  "pdf": "Model_examen_2a_prova_plantilla_A_-_Codi_3940_LAROCA_desbloquejat(2).pdf",
+  "method": "Verificació de la negreta en els spans de la pàgina del PDF i comprovació de la correspondència de cada registre",
+  "results": [
+    {
+      "question_number": 51,
+      "record_id": "ROCA-04-025",
+      "answer": "D",
+      "pdf_page": 12,
+      "bold_answer_verified": true,
+      "question_and_options_checked": true,
+      "literal_punctuation_review": "Cal conservar puntuació literal; en alguna opció la transcripció omet el punt final del PDF"
+    },
+    {
+      "question_number": 52,
+      "record_id": "CONS-ECONPLACES_14",
+      "answer": "A",
+      "pdf_page": 12,
+      "bold_answer_verified": true,
+      "question_and_options_checked": true,
+      "literal_punctuation_review": "Cal conservar puntuació literal; en alguna opció la transcripció omet el punt final del PDF"
+    },
+    {
+      "question_number": 53,
+      "record_id": "ROCA-06-050",
+      "answer": "D",
+      "pdf_page": 12,
+      "bold_answer_verified": true,
+      "question_and_options_checked": true,
+      "literal_punctuation_review": "Cal conservar puntuació literal; en alguna opció la transcripció omet el punt final del PDF"
+    },
+    {
+      "question_number": 54,
+      "record_id": "CONS-ECONPLACES_21",
+      "answer": "B",
+      "pdf_page": 12,
+      "bold_answer_verified": true,
+      "question_and_options_checked": true,
+      "literal_punctuation_review": "Cal conservar puntuació literal; en alguna opció la transcripció omet el punt final del PDF"
+    },
+    {
+      "question_number": 55,
+      "record_id": "ROCA-05-025",
+      "answer": "A",
+      "pdf_page": 13,
+      "bold_answer_verified": true,
+      "question_and_options_checked": true,
+      "literal_punctuation_review": "Cal conservar puntuació literal; en alguna opció la transcripció omet el punt final del PDF"
+    }
+  ],
+  "limits": "No és una auditoria literal global. La puntuació de determinades opcions requereix revisió específica. No s’han canviat les respostes."
+}

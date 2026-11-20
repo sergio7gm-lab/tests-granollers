@@ -1,0 +1,1 @@
+Banc 2234. Reserves identificades 67. Cinc respostes del primer exercici TAG comprovades a v417 i cinc respostes de reserva i dues ordinàries del segon exercici TAG comprovades a v418. Resten 57 reserves sense comprovacio equivalent en aquestes dues passades. Prova navegador pendent.

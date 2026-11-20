@@ -1,0 +1,30 @@
+V453 — INVENTARI INDIVIDUAL DE RESERVES
+Registres totals: 2234
+Registres marcats com a reserva: 76
+Reserves sense vinculació explícita: 54
+No s’han modificat preguntes, respostes ni vinculacions sense PDF original.
+
+Fonts dels pendents:
+5: Ajuntament de Barcelona — Subgrup A1, test temari comú (01/03/2025)
+5: Granollers - A1 Tècnic/a Superior Administració General (Serveis Jurídics)
+5: 2022_PARCS_09_OP_3pl_Auxiliar_Administratiu_1r_i_2n_any_Questionari_Solucionari_Coneixements_AJUNT BARCELONA(6).pdf
+4: Examen A1 Tècnic/a Superior Economista Granollers
+4: Ajuntament de la Roca del Vallès — Administratius/ives 2025, 2a prova, Model A (3927)
+3: Granollers - Borsa Tècnic/a Superior Dret 2022
+3: Ajuntament de Granollers — Tècnic/a d’Administració General A2
+3: C1 TECNIC ESPECIALISTA CULTURAL(4).pdf
+2: Examen oficial A1 Tècnic/a Superior de Sistemes d'Informació
+2: Plantilla_prova_teorica_2_TAG_155982R_LAROCA(4).pdf
+2: Ajuntament de la Roca del Vallès — Administratius/ives 2025, 1a prova, Model A (3927)
+2: A1 BORSA DOCENTS_granollers.pdf — Model 1
+2: A1 BORSA DOCENTS_granollers.pdf — Model 2
+2: A1 I A2 personal tècnic amb titulació universitària_ANY 2023_granollers.pdf
+2: Granollers - A2 Arquitecte/a Tècnic/a 19/2025/13
+1: C1 TÈCNIC DE MANTENIMENT DE JARDINERIA(4).pdf
+1: A2 ENGINYER TECNICOBRA PÚBLICA(4).pdf
+1: C2 BORSA DE TREBALL D’AUXILIARS_2019(6).pdf
+1: Model_examen_2a_prova_plantilla_A_-_Codi_3941_LAROCA.pdf(4).pdf
+1: A1 TECNIC SUPERIOR DE SISTEMES D'INFORMACIÓ(4).pdf
+1: A2 TECNIC MITJA DE PROTECCIÓ DE SALUT PÚBLICA(4).pdf
+1: C1 Administratiu/va Granollers — promoció interna
+1: C1 Plaça de delineant(4).pdf

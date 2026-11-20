@@ -1,0 +1,1 @@
+v454: Les reserves ja presents al grup ordinari queden marcades no puntuables quan la seva metadada ho indica, excepte activació oficial explícita. Protecció de visualització quan falta el camp sources. No s'han alterat preguntes ni respostes. ATENCIO: resta pendent l'auditoria documental de reserves i solucionaris; no es pot certificar la substitució oficial sense el PDF.

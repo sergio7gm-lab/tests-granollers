@@ -1,0 +1,609 @@
+{
+  "total": 67,
+  "estat": "control de procedència; no certificació oficial",
+  "registres": [
+    {
+      "id": "BCN-ENG-A1-2025-41",
+      "origen": "Ajuntament de Barcelona — Subgrup A1, test temari comú (01/03/2025)",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "A",
+      "procedencia_clau_declarada": "no especificada",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "BCN-ENG-A1-2025-42",
+      "origen": "Ajuntament de Barcelona — Subgrup A1, test temari comú (01/03/2025)",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "B",
+      "procedencia_clau_declarada": "no especificada",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "BCN-ENG-A1-2025-43",
+      "origen": "Ajuntament de Barcelona — Subgrup A1, test temari comú (01/03/2025)",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "C",
+      "procedencia_clau_declarada": "no especificada",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "BCN-ENG-A1-2025-44",
+      "origen": "Ajuntament de Barcelona — Subgrup A1, test temari comú (01/03/2025)",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "A",
+      "procedencia_clau_declarada": "no especificada",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "BCN-ENG-A1-2025-45",
+      "origen": "Ajuntament de Barcelona — Subgrup A1, test temari comú (01/03/2025)",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "A",
+      "procedencia_clau_declarada": "no especificada",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "GRA-A2-ENG-2026-52",
+      "origen": "A2 ENGINYER TECNICOBRA PÚBLICA(4).pdf",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "B",
+      "procedencia_clau_declarada": "Plantilla oficial, pàgina 12",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "CONS-GRAN-A1-ECO-051",
+      "origen": "Examen A1 Tècnic/a Superior Economista Granollers",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "A",
+      "procedencia_clau_declarada": "solucionari_oficial_ressaltat",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "CONS-GRAN-A1-ECO-053",
+      "origen": "Examen A1 Tècnic/a Superior Economista Granollers",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "A",
+      "procedencia_clau_declarada": "solucionari_oficial_ressaltat",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "CONS-GRAN-A1-ECO-054",
+      "origen": "Examen A1 Tècnic/a Superior Economista Granollers",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "B",
+      "procedencia_clau_declarada": "solucionari_oficial_ressaltat",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "CONS-GRAN-A1-ECO-055",
+      "origen": "Examen A1 Tècnic/a Superior Economista Granollers",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "A",
+      "procedencia_clau_declarada": "solucionari_oficial_ressaltat",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "CONS-ECONPLACES_14",
+      "origen": "Granollers - dues places economista A1",
+      "enunciat_i_opcions": "localitzats en PDF local (auditoria anterior)",
+      "resposta_registrada": "A",
+      "procedencia_clau_declarada": "solucionari_oficial_negreta_pdf",
+      "text_procedencia": "Resposta oficial — negreta al PDF",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "CONS-ECONPLACES_21",
+      "origen": "Granollers - dues places economista A1",
+      "enunciat_i_opcions": "localitzats en PDF local (auditoria anterior)",
+      "resposta_registrada": "B",
+      "procedencia_clau_declarada": "solucionari_oficial_negreta_pdf",
+      "text_procedencia": "Resposta oficial — negreta al PDF",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "CONS-DRET22_R1",
+      "origen": "Granollers - Borsa Tècnic/a Superior Dret 2022",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "D",
+      "procedencia_clau_declarada": "solucionari_oficial_text_vermell",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "CONS-DRET22_R2",
+      "origen": "Granollers - Borsa Tècnic/a Superior Dret 2022",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "B",
+      "procedencia_clau_declarada": "solucionari_oficial_text_vermell",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "CONS-DRET22_R3",
+      "origen": "Granollers - Borsa Tècnic/a Superior Dret 2022",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "A",
+      "procedencia_clau_declarada": "solucionari_oficial_text_vermell",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "CONS-JUR_A1_R1",
+      "origen": "Granollers - A1 Tècnic/a Superior Administració General (Serveis Jurídics)",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "C",
+      "procedencia_clau_declarada": "solucionari_oficial_graella_pagina_11",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "CONS-JUR_A1_R2",
+      "origen": "Granollers - A1 Tècnic/a Superior Administració General (Serveis Jurídics)",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "A",
+      "procedencia_clau_declarada": "solucionari_oficial_graella_pagina_11",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "CONS-JUR_A1_R3",
+      "origen": "Granollers - A1 Tècnic/a Superior Administració General (Serveis Jurídics)",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "C",
+      "procedencia_clau_declarada": "solucionari_oficial_graella_pagina_11",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "CONS-JUR_A1_R4",
+      "origen": "Granollers - A1 Tècnic/a Superior Administració General (Serveis Jurídics)",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "D",
+      "procedencia_clau_declarada": "solucionari_oficial_graella_pagina_11",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "CONS-JUR_A1_R5",
+      "origen": "Granollers - A1 Tècnic/a Superior Administració General (Serveis Jurídics)",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "B",
+      "procedencia_clau_declarada": "solucionari_oficial_graella_pagina_11",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "CONS-GRA-A2-TAG-52",
+      "origen": "Ajuntament de Granollers — Tècnic/a d’Administració General A2",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "C",
+      "procedencia_clau_declarada": "solucionari_oficial_ressaltat_groc",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "CONS-GRA-A2-TAG-53",
+      "origen": "Ajuntament de Granollers — Tècnic/a d’Administració General A2",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "B",
+      "procedencia_clau_declarada": "solucionari_oficial_ressaltat_groc",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "CONS-798",
+      "origen": "Granollers - personal administratiu, biblioteca i informàtica",
+      "enunciat_i_opcions": "localitzats en PDF local (auditoria anterior)",
+      "resposta_registrada": "A",
+      "procedencia_clau_declarada": "correccio_juridica_discrepancia_plantilla",
+      "text_procedencia": "Resposta jurídica A; plantilla PDF marca B (errònia)",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "ROCA-01-009",
+      "origen": "Model_1r_exercici_TAG_189878W_LAROCA.pdf.crdownload",
+      "enunciat_i_opcions": "localitzats en PDF local (auditoria anterior)",
+      "resposta_registrada": "C",
+      "procedencia_clau_declarada": "no especificada",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "ROCA-01-051",
+      "origen": "Model_1r_exercici_TAG_189878W_LAROCA.pdf.crdownload",
+      "enunciat_i_opcions": "localitzats en PDF local (auditoria anterior)",
+      "resposta_registrada": "B",
+      "procedencia_clau_declarada": "marca_negreta_pdf_original",
+      "text_procedencia": "Resposta oficial — negreta al PDF original",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "ROCA-01-052",
+      "origen": "Model_1r_exercici_TAG_189878W_LAROCA.pdf.crdownload",
+      "enunciat_i_opcions": "localitzats en PDF local (auditoria anterior)",
+      "resposta_registrada": "D",
+      "procedencia_clau_declarada": "marca_negreta_pdf_original",
+      "text_procedencia": "Resposta oficial — negreta al PDF original",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "ROCA-01-053",
+      "origen": "Model_1r_exercici_TAG_189878W_LAROCA.pdf.crdownload",
+      "enunciat_i_opcions": "localitzats en PDF local (auditoria anterior)",
+      "resposta_registrada": "A",
+      "procedencia_clau_declarada": "no especificada",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "ROCA-01-055",
+      "origen": "Model_1r_exercici_TAG_189878W_LAROCA.pdf.crdownload",
+      "enunciat_i_opcions": "localitzats en PDF local (auditoria anterior)",
+      "resposta_registrada": "A",
+      "procedencia_clau_declarada": "no especificada",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "ROCA-02-059",
+      "origen": "Model_2n_exercici_TAG_189878W_LA ROCA.pdf.crdownload",
+      "enunciat_i_opcions": "localitzats en PDF local (auditoria anterior)",
+      "resposta_registrada": "A",
+      "procedencia_clau_declarada": "resposta_negreta_pdf_oficial",
+      "text_procedencia": "Resposta A marcada en negreta al PDF oficial Examen_TAG_La_Roca_2(1).pdf",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "ROCA-02-060",
+      "origen": "Model_2n_exercici_TAG_189878W_LA ROCA.pdf.crdownload",
+      "enunciat_i_opcions": "localitzats en PDF local (auditoria anterior)",
+      "resposta_registrada": "B",
+      "procedencia_clau_declarada": "resposta_negreta_pdf_oficial",
+      "text_procedencia": "Resposta marcada en negreta al PDF oficial Examen_TAG_La_Roca_2(1).pdf",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "ROCA-02-061",
+      "origen": "Model_2n_exercici_TAG_189878W_LA ROCA.pdf.crdownload",
+      "enunciat_i_opcions": "localitzats en PDF local (auditoria anterior)",
+      "resposta_registrada": "D",
+      "procedencia_clau_declarada": "resposta_negreta_pdf_oficial",
+      "text_procedencia": "Resposta marcada en negreta al PDF oficial Examen_TAG_La_Roca_2(1).pdf",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "ROCA-04-025",
+      "origen": "Model_examen_1a_prova_plantilla_A_-_Codi_3940_LAROCA.pdf.crdownload",
+      "enunciat_i_opcions": "localitzats en PDF local (auditoria anterior)",
+      "resposta_registrada": "D",
+      "procedencia_clau_declarada": "solucionari_oficial_negreta_pdf",
+      "text_procedencia": "Resposta oficial — negreta al PDF",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "ROCA-04-026",
+      "origen": "Model_examen_1a_prova_plantilla_A_-_Codi_3940_LAROCA.pdf.crdownload",
+      "enunciat_i_opcions": "localitzats en PDF local (auditoria anterior)",
+      "resposta_registrada": "A",
+      "procedencia_clau_declarada": "marca_negreta_pdf_original",
+      "text_procedencia": "Resposta oficial — negreta al PDF original",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "ROCA-04-028",
+      "origen": "Model_examen_1a_prova_plantilla_A_-_Codi_3940_LAROCA.pdf.crdownload",
+      "enunciat_i_opcions": "localitzats en PDF local (auditoria anterior)",
+      "resposta_registrada": "B",
+      "procedencia_clau_declarada": "marca_negreta_pdf_original",
+      "text_procedencia": "Resposta oficial — negreta al PDF original",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "ROCA-04-029",
+      "origen": "Model_examen_1a_prova_plantilla_A_-_Codi_3940_LAROCA.pdf.crdownload",
+      "enunciat_i_opcions": "localitzats en PDF local (auditoria anterior)",
+      "resposta_registrada": "C",
+      "procedencia_clau_declarada": "marca_negreta_pdf_original",
+      "text_procedencia": "Resposta oficial — negreta al PDF original",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "ROCA-05-025",
+      "origen": "Model_examen_1a_prova_plantilla_A_-_Codi_3941_LAROCA.pdf.crdownload",
+      "enunciat_i_opcions": "localitzats en PDF local (auditoria anterior)",
+      "resposta_registrada": "A",
+      "procedencia_clau_declarada": "marca_negreta_pdf_original",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "ROCA-06-050",
+      "origen": "Model_examen_2a_prova_plantilla_A_-_Codi_3940_LAROCA.pdf.crdownload",
+      "enunciat_i_opcions": "localitzats en PDF local (auditoria anterior)",
+      "resposta_registrada": "D",
+      "procedencia_clau_declarada": "solucionari_oficial_negreta_pdf",
+      "text_procedencia": "Resposta oficial — negreta al PDF",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "ROCA-AUX-3941-P2-051",
+      "origen": "Model_examen_2a_prova_plantilla_A_-_Codi_3941_LAROCA.pdf(4).pdf",
+      "enunciat_i_opcions": "localitzats en PDF local (auditoria anterior)",
+      "resposta_registrada": "A",
+      "procedencia_clau_declarada": "solucionari_oficial_negreta_pdf",
+      "text_procedencia": "Resposta oficial — negreta al PDF",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "ROCA-3941-1A-027",
+      "origen": "Model_examen_1a_prova_plantilla_A_-_Codi_3941_LAROCA_desbloquejat.pdf",
+      "enunciat_i_opcions": "localitzats en PDF local (auditoria anterior)",
+      "resposta_registrada": "C",
+      "procedencia_clau_declarada": "marca_negreta_pdf_original",
+      "text_procedencia": "Resposta oficial — negreta al PDF original",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "ROCA-3941-1A-030",
+      "origen": "Model_examen_1a_prova_plantilla_A_-_Codi_3941_LAROCA_desbloquejat.pdf",
+      "enunciat_i_opcions": "localitzats en PDF local (auditoria anterior)",
+      "resposta_registrada": "C",
+      "procedencia_clau_declarada": "marca_negreta_pdf_original",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "LAROCA-TAG-189878W-2N-064",
+      "origen": "Model_2n_exercici_TAG_189878W_LA_ROCA_desbloquejat.pdf",
+      "enunciat_i_opcions": "localitzats en PDF local (auditoria anterior)",
+      "resposta_registrada": "B",
+      "procedencia_clau_declarada": "resposta_negreta_pdf_oficial",
+      "text_procedencia": "Resposta marcada en negreta al PDF oficial Examen_TAG_La_Roca_2(1).pdf",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "LAROCA-TAG-189878W-2N-065",
+      "origen": "Model_2n_exercici_TAG_189878W_LA_ROCA_desbloquejat.pdf",
+      "enunciat_i_opcions": "localitzats en PDF local (auditoria anterior)",
+      "resposta_registrada": "B",
+      "procedencia_clau_declarada": "resposta_negreta_pdf_oficial",
+      "text_procedencia": "Resposta marcada en negreta al PDF oficial Examen_TAG_La_Roca_2(1).pdf",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "LAROCA-TAG-155928R-2P-063",
+      "origen": "Plantilla_prova_teorica_2_TAG_155982R_LAROCA(4).pdf",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "B",
+      "procedencia_clau_declarada": "no especificada",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "LAROCA-TAG-155928R-2P-064",
+      "origen": "Plantilla_prova_teorica_2_TAG_155982R_LAROCA(4).pdf",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "C",
+      "procedencia_clau_declarada": "no especificada",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "BARC-PARCS-2022-072",
+      "origen": "2022_PARCS_09_OP_3pl_Auxiliar_Administratiu_1r_i_2n_any_Questionari_Solucionari_Coneixements_AJUNT BARCELONA(6).pdf",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "B",
+      "procedencia_clau_declarada": "solucionari_oficial_negreta_pdf",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "BARC-PARCS-2022-075",
+      "origen": "2022_PARCS_09_OP_3pl_Auxiliar_Administratiu_1r_i_2n_any_Questionari_Solucionari_Coneixements_AJUNT BARCELONA(6).pdf",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "C",
+      "procedencia_clau_declarada": "solucionari_oficial_negreta_pdf",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "BARC-PARCS-2022-071",
+      "origen": "2022_PARCS_09_OP_3pl_Auxiliar_Administratiu_1r_i_2n_any_Questionari_Solucionari_Coneixements_AJUNT BARCELONA(6).pdf",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "A",
+      "procedencia_clau_declarada": "solucionari_oficial_negreta_pdf",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "BARC-PARCS-2022-074",
+      "origen": "2022_PARCS_09_OP_3pl_Auxiliar_Administratiu_1r_i_2n_any_Questionari_Solucionari_Coneixements_AJUNT BARCELONA(6).pdf",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "B",
+      "procedencia_clau_declarada": "solucionari_oficial_negreta_pdf",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "BARC-PARCS-2022-076",
+      "origen": "2022_PARCS_09_OP_3pl_Auxiliar_Administratiu_1r_i_2n_any_Questionari_Solucionari_Coneixements_AJUNT BARCELONA(6).pdf",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "D",
+      "procedencia_clau_declarada": "solucionari_oficial_negreta_pdf",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "ROCA-ADM-3927-2025-R02",
+      "origen": "Ajuntament de la Roca del Vallès — Administratius/ives 2025, 1a prova, Model A (3927)",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "C",
+      "procedencia_clau_declarada": "no especificada",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "ROCA-ADM-3927-2025-R05",
+      "origen": "Ajuntament de la Roca del Vallès — Administratius/ives 2025, 1a prova, Model A (3927)",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "A",
+      "procedencia_clau_declarada": "no especificada",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "ROCA-ADM-3927-2025-2A-R02",
+      "origen": "Ajuntament de la Roca del Vallès — Administratius/ives 2025, 2a prova, Model A (3927)",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "C",
+      "procedencia_clau_declarada": "no especificada",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "ROCA-ADM-3927-2025-2A-R03",
+      "origen": "Ajuntament de la Roca del Vallès — Administratius/ives 2025, 2a prova, Model A (3927)",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "D",
+      "procedencia_clau_declarada": "no especificada",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "ROCA-ADM-3927-2025-2A-R04",
+      "origen": "Ajuntament de la Roca del Vallès — Administratius/ives 2025, 2a prova, Model A (3927)",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "D",
+      "procedencia_clau_declarada": "no especificada",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "ROCA-ADM-3927-2025-2A-R05",
+      "origen": "Ajuntament de la Roca del Vallès — Administratius/ives 2025, 2a prova, Model A (3927)",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "A",
+      "procedencia_clau_declarada": "no especificada",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "GRAN-DOCENTS-2024-M1-042",
+      "origen": "A1 BORSA DOCENTS_granollers.pdf — Model 1",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "A",
+      "procedencia_clau_declarada": "solucionari_oficial_model_1",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "GRAN-DOCENTS-2024-M1-043",
+      "origen": "A1 BORSA DOCENTS_granollers.pdf — Model 1",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "C",
+      "procedencia_clau_declarada": "solucionari_oficial_model_1",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "GRAN-DOCENTS-2024-M2-042",
+      "origen": "A1 BORSA DOCENTS_granollers.pdf — Model 2",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "A",
+      "procedencia_clau_declarada": "solucionari_oficial_model_2",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "GRAN-DOCENTS-2024-M2-043",
+      "origen": "A1 BORSA DOCENTS_granollers.pdf — Model 2",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "B",
+      "procedencia_clau_declarada": "solucionari_oficial_model_2",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "GRAN-TIT-UNIV-2023-M1-041",
+      "origen": "A1 I A2 personal tècnic amb titulació universitària_ANY 2023_granollers.pdf",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "B",
+      "procedencia_clau_declarada": "no especificada",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "GRAN-TIT-UNIV-2023-M1-042",
+      "origen": "A1 I A2 personal tècnic amb titulació universitària_ANY 2023_granollers.pdf",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "B",
+      "procedencia_clau_declarada": "no especificada",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "GRAN-SIST-INF-A1-R02",
+      "origen": "A1 TECNIC SUPERIOR DE SISTEMES D'INFORMACIÓ(4).pdf",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "D",
+      "procedencia_clau_declarada": "no especificada",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "CONS-GRA-A2-TAG-51",
+      "origen": "Ajuntament de Granollers — Tècnic/a d’Administració General A2",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "C",
+      "procedencia_clau_declarada": "solucionari_oficial_ressaltat_groc",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "CONS-ARQ2025-R1",
+      "origen": "Granollers - A2 Arquitecte/a Tècnic/a 19/2025/13",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "A",
+      "procedencia_clau_declarada": "no especificada",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "CONS-ARQ2025-R3",
+      "origen": "Granollers - A2 Arquitecte/a Tècnic/a 19/2025/13",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "C",
+      "procedencia_clau_declarada": "no especificada",
+      "text_procedencia": "",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "CONS-GRAN-A2-SALUT-2018-RES-001",
+      "origen": "A2 TECNIC MITJA DE PROTECCIÓ DE SALUT PÚBLICA(4).pdf",
+      "enunciat_i_opcions": "pendent de contrast documental",
+      "resposta_registrada": "D",
+      "procedencia_clau_declarada": "marca_groga_pdf_original",
+      "text_procedencia": "Resposta oficial marcada en groc al PDF original",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    },
+    {
+      "id": "GRAN-TEI-2026-031",
+      "origen": "personal docent tei(4).pdf",
+      "enunciat_i_opcions": "localitzats en PDF local (auditoria anterior)",
+      "resposta_registrada": "B",
+      "procedencia_clau_declarada": "oficial_marca_groga_pdf",
+      "text_procedencia": "Resposta marcada en groc al PDF original",
+      "nota": "No s’ha verificat en aquesta passada la marca de solucionari oficial."
+    }
+  ]
+}

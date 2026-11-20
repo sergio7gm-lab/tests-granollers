@@ -1,0 +1,1 @@
+Corregida la classificació de 8 preguntes de reserva que no tenien reserve=true. Sense modificacions d’enunciats, opcions, respostes ni temes. IDs: CONS-C1ADM-R2, CONS-CULT-C1-R1, CONS-CULT-C1-R2, CONS-CULT-C1-R3, CONS-GRAN-A2-SALUT-2018-RES-001, CONS-GRAN-C2-AUX-2019-R1, DELIN_C1_RES_4, GRAN-C1-JARDINERIA-53

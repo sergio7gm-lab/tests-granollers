@@ -1,0 +1,32 @@
+{
+  "version": "v414",
+  "banc_registres": 2234,
+  "reserves_registres": 67,
+  "reserves_flags": {
+    "reserve": 26,
+    "reserva": 20,
+    "exam_memberships.reserve": 22,
+    "is_reserve": 1
+  },
+  "reserves_resposta_invalida": [],
+  "prova_unitaria_real_de_codi_inicialitzacio_perfils": {
+    "result": "PASS",
+    "profiles": 3,
+    "unique_keys": [
+      "granollers_a1a2_fase68_global",
+      "granollers_a1a2_fase68_global_perfil_2",
+      "granollers_a1a2_fase68_global_perfil_3"
+    ],
+    "fields": [
+      "consumed",
+      "history",
+      "fav",
+      "wrong"
+    ]
+  },
+  "limitacions": [
+    "La prova executa el fragment real d’inicialització i lectura de dades de l’app en Node.js, amb localStorage simulat; no equival a una prova E2E del navegador.",
+    "No es certifica la correspondència de totes les reserves amb els PDF originals ni els solucionaris oficials.",
+    "El nombre 67 és de registres marcats com a reserva, no necessàriament de preguntes úniques."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "versio": "407",
+  "total_registres": 2234,
+  "reserves_registres": 48,
+  "reserves_amb_camp_reserve": 26,
+  "reserves_amb_membership": 22,
+  "incidencies_estructura": [],
+  "verificacio_javascript": "node --check correcte",
+  "limitacions": [
+    "No és una auditoria documental de tots els PDF originals",
+    "No és una prova funcional amb navegadors ni dispositius reals",
+    "La correcció legal de totes les respostes de reserva no està certificada"
+  ]
+}

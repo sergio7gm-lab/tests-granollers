@@ -1,0 +1,46 @@
+{
+  "verificades_amb_marca_original": 5,
+  "registres": [
+    {
+      "id": "ROCA-01-051",
+      "pregunta_original": 51,
+      "resposta": "B",
+      "metode": "Inspecció de spans Helvetica,Bold de la pàgina 13 i continuació pàgina 14 amb PyMuPDF",
+      "document": "Model_1r_exercici_TAG_189878W_LAROCA.pdf",
+      "resultat": "resposta marcada en negreta coincideix amb el banc"
+    },
+    {
+      "id": "ROCA-01-052",
+      "pregunta_original": 52,
+      "resposta": "D",
+      "metode": "Inspecció de spans Helvetica,Bold de la pàgina 13 i continuació pàgina 14 amb PyMuPDF",
+      "document": "Model_1r_exercici_TAG_189878W_LAROCA.pdf",
+      "resultat": "resposta marcada en negreta coincideix amb el banc"
+    },
+    {
+      "id": "ROCA-01-053",
+      "pregunta_original": 53,
+      "resposta": "A",
+      "metode": "Inspecció de spans Helvetica,Bold de la pàgina 13 i continuació pàgina 14 amb PyMuPDF",
+      "document": "Model_1r_exercici_TAG_189878W_LAROCA.pdf",
+      "resultat": "resposta marcada en negreta coincideix amb el banc"
+    },
+    {
+      "id": "ROCA-01-009",
+      "pregunta_original": 54,
+      "resposta": "C",
+      "metode": "Inspecció de spans Helvetica,Bold de la pàgina 13 i continuació pàgina 14 amb PyMuPDF",
+      "document": "Model_1r_exercici_TAG_189878W_LAROCA.pdf",
+      "resultat": "resposta marcada en negreta coincideix amb el banc"
+    },
+    {
+      "id": "ROCA-01-055",
+      "pregunta_original": 55,
+      "resposta": "A",
+      "metode": "Inspecció de spans Helvetica,Bold de la pàgina 13 i continuació pàgina 14 amb PyMuPDF",
+      "document": "Model_1r_exercici_TAG_189878W_LAROCA.pdf",
+      "resultat": "resposta marcada en negreta coincideix amb el banc"
+    }
+  ],
+  "nota": "Les altres 62 reserves no es consideren verificades per aquesta comprovació. La pràctica de reserves continua sense nota."
+}

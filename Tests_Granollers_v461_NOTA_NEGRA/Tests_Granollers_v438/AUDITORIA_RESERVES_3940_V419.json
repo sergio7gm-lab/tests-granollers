@@ -1,0 +1,67 @@
+{
+  "pdf": "Model_examen_1a_prova_plantilla_A_-_Codi_3940_LAROCA(2).pdf",
+  "metode": "comprovació de negreta als spans del PDF original",
+  "preguntes": [
+    {
+      "numero_original": 26,
+      "id": "ROCA-04-025",
+      "resposta_marcada": "D",
+      "pagina_pdf": 7,
+      "opcio_negreta": {
+        "A": false,
+        "B": false,
+        "C": false,
+        "D": true
+      }
+    },
+    {
+      "numero_original": 27,
+      "id": "ROCA-04-026",
+      "resposta_marcada": "A",
+      "pagina_pdf": 7,
+      "opcio_negreta": {
+        "A": true,
+        "B": false,
+        "C": false,
+        "D": false
+      }
+    },
+    {
+      "numero_original": 28,
+      "id": "ROCA-3941-1A-027",
+      "resposta_marcada": "C",
+      "pagina_pdf": 7,
+      "opcio_negreta": {
+        "A": false,
+        "B": false,
+        "C": true,
+        "D": false
+      }
+    },
+    {
+      "numero_original": 29,
+      "id": "ROCA-04-028",
+      "resposta_marcada": "B",
+      "pagina_pdf": 7,
+      "opcio_negreta": {
+        "A": false,
+        "B": true,
+        "C": false,
+        "D": false
+      }
+    },
+    {
+      "numero_original": 30,
+      "id": "ROCA-04-029",
+      "resposta_marcada": "C",
+      "pagina_pdf": 8,
+      "opcio_negreta": {
+        "A": false,
+        "B": false,
+        "C": true,
+        "D": false
+      }
+    }
+  ],
+  "limitacio": "No acredita la resta de reserves ni la prova E2E dels perfils."
+}

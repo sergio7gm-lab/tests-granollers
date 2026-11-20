@@ -1,0 +1,158 @@
+{
+  "version": 430,
+  "source_pdf": "Model_examen_2a_prova_plantilla_A_-_Codi_3940_LAROCA_desbloquejat(2).pdf",
+  "scope": "preguntes de reserva 51-55; text extret amb PyMuPDF",
+  "checks": [
+    {
+      "question": 51,
+      "record_id": "ROCA-04-025",
+      "page": 12,
+      "question_exact": true,
+      "options": {
+        "A": {
+          "bank": "Declaració responsable.",
+          "pdf": "Declaració responsable.",
+          "exact": true
+        },
+        "B": {
+          "bank": "Sol·licitud a instància de part.",
+          "pdf": "Sol·licitud a instància de part.",
+          "exact": true
+        },
+        "C": {
+          "bank": "Declaració jurada.",
+          "pdf": "Declaració jurada.",
+          "exact": true
+        },
+        "D": {
+          "bank": "Comunicació.",
+          "pdf": "Comunicació.",
+          "exact": true
+        }
+      },
+      "answer_in_bank": "D",
+      "official_answer_from_previous_audit": "D"
+    },
+    {
+      "question": 52,
+      "record_id": "CONS-ECONPLACES_14",
+      "page": 12,
+      "question_exact": true,
+      "options": {
+        "A": {
+          "bank": "La compravenda.",
+          "pdf": "La compravenda.",
+          "exact": true
+        },
+        "B": {
+          "bank": "La concessió de serveis.",
+          "pdf": "La concessió de serveis.",
+          "exact": true
+        },
+        "C": {
+          "bank": "El contracte de subministrament.",
+          "pdf": "El contracte de subministrament.",
+          "exact": true
+        },
+        "D": {
+          "bank": "El contracte de serveis.",
+          "pdf": "El contracte de serveis.",
+          "exact": true
+        }
+      },
+      "answer_in_bank": "A",
+      "official_answer_from_previous_audit": "A"
+    },
+    {
+      "question": 53,
+      "record_id": "ROCA-06-050",
+      "page": 12,
+      "question_exact": true,
+      "options": {
+        "A": {
+          "bank": "Contracte d'obres.",
+          "pdf": "Contracte d'obres.",
+          "exact": true
+        },
+        "B": {
+          "bank": "Contracte de serveis.",
+          "pdf": "Contracte de serveis.",
+          "exact": true
+        },
+        "C": {
+          "bank": "Contracte de concessió de serveis.",
+          "pdf": "Contracte de concessió de serveis.",
+          "exact": true
+        },
+        "D": {
+          "bank": "Contracte de subministraments.",
+          "pdf": "Contracte de subministraments.",
+          "exact": true
+        }
+      },
+      "answer_in_bank": "D",
+      "official_answer_from_previous_audit": "D"
+    },
+    {
+      "question": 54,
+      "record_id": "CONS-ECONPLACES_21",
+      "page": 12,
+      "question_exact": true,
+      "options": {
+        "A": {
+          "bank": "L’expressió de les obligacions que, com a màxim, poden reconèixer l’Entitat i els seus Organismes Autònoms.",
+          "pdf": "L’expressió de les obligacions que, com a màxim, poden reconèixer l’Entitat i els seus Organismes Autònoms.",
+          "exact": true
+        },
+        "B": {
+          "bank": "L’expressió xifrada, conjunta i sistemàtica de les obligacions que, com a màxim, poden reconèixer l’Entitat i els seus organismes autònoms.",
+          "pdf": "L’expressió xifrada, conjunta i sistemàtica de les obligacions que, com a màxim, poden reconèixer l’Entitat i els seus organismes autònoms.",
+          "exact": true
+        },
+        "C": {
+          "bank": "L’expressió xifrada, general i sistemàtica de les obligacions que, com a màxim, poden reconèixer l’Entitat i els seus Organismes Autònoms.",
+          "pdf": "L’expressió xifrada, general i sistemàtica de les obligacions que, com a màxim, poden reconèixer l’Entitat i els seus Organismes Autònoms.",
+          "exact": true
+        },
+        "D": {
+          "bank": "L’expressió comptable, conjunta i sistemàtica de les obligacions que, com a màxim, poden reconèixer l’Entitat i els seus Organismes Autònoms.",
+          "pdf": "L’expressió comptable, conjunta i sistemàtica de les obligacions que, com a màxim, poden reconèixer l’Entitat i els seus Organismes Autònoms.",
+          "exact": true
+        }
+      },
+      "answer_in_bank": "B",
+      "official_answer_from_previous_audit": "B"
+    },
+    {
+      "question": 55,
+      "record_id": "ROCA-05-025",
+      "page": 13,
+      "question_exact": true,
+      "options": {
+        "A": {
+          "bank": "Defensor del Poble.",
+          "pdf": "Defensor del Poble.",
+          "exact": true
+        },
+        "B": {
+          "bank": "Síndic de Greuges.",
+          "pdf": "Síndic de Greuges.",
+          "exact": true
+        },
+        "C": {
+          "bank": "President del Govern.",
+          "pdf": "President del Govern.",
+          "exact": true
+        },
+        "D": {
+          "bank": "Delegat del Govern.",
+          "pdf": "Delegat del Govern.",
+          "exact": true
+        }
+      },
+      "answer_in_bank": "A",
+      "official_answer_from_previous_audit": "A"
+    }
+  ],
+  "limits": "Comparació textual de la capa de text del PDF, no comprovació visual de les negretes. Els salts de línia es normalitzen. No valida altres exàmens."
+}

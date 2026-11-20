@@ -1,0 +1,582 @@
+{
+  "version": "406",
+  "audit_scope": "Inventari estructural de reserves i correcció del filtre de pràctica; NO equival a verificació literal contra tots els PDF originals",
+  "total_records": 2234,
+  "reserve_flag_records": 26,
+  "reserve_membership_records": 22,
+  "reserve_union_records": 48,
+  "membership_links": 29,
+  "entries": [
+    {
+      "id": "BCN-ENG-A1-2025-41",
+      "tema": 1,
+      "answer": "A",
+      "source": "Ajuntament de Barcelona — Subgrup A1, test temari comú (01/03/2025)",
+      "reserve_flag": true,
+      "reserve_memberships": []
+    },
+    {
+      "id": "BCN-ENG-A1-2025-42",
+      "tema": 1,
+      "answer": "B",
+      "source": "Ajuntament de Barcelona — Subgrup A1, test temari comú (01/03/2025)",
+      "reserve_flag": true,
+      "reserve_memberships": []
+    },
+    {
+      "id": "BCN-ENG-A1-2025-43",
+      "tema": 1,
+      "answer": "C",
+      "source": "Ajuntament de Barcelona — Subgrup A1, test temari comú (01/03/2025)",
+      "reserve_flag": true,
+      "reserve_memberships": []
+    },
+    {
+      "id": "BCN-ENG-A1-2025-44",
+      "tema": 1,
+      "answer": "A",
+      "source": "Ajuntament de Barcelona — Subgrup A1, test temari comú (01/03/2025)",
+      "reserve_flag": true,
+      "reserve_memberships": []
+    },
+    {
+      "id": "BCN-ENG-A1-2025-45",
+      "tema": 1,
+      "answer": "A",
+      "source": "Ajuntament de Barcelona — Subgrup A1, test temari comú (01/03/2025)",
+      "reserve_flag": true,
+      "reserve_memberships": []
+    },
+    {
+      "id": "CONS-GRAN-A1-ECO-051",
+      "tema": 10,
+      "answer": "A",
+      "source": "Examen A1 Tècnic/a Superior Economista Granollers",
+      "reserve_flag": true,
+      "reserve_memberships": []
+    },
+    {
+      "id": "CONS-GRAN-A1-ECO-053",
+      "tema": 10,
+      "answer": "A",
+      "source": "Examen A1 Tècnic/a Superior Economista Granollers",
+      "reserve_flag": true,
+      "reserve_memberships": []
+    },
+    {
+      "id": "CONS-GRAN-A1-ECO-054",
+      "tema": 8,
+      "answer": "B",
+      "source": "Examen A1 Tècnic/a Superior Economista Granollers",
+      "reserve_flag": true,
+      "reserve_memberships": []
+    },
+    {
+      "id": "CONS-GRAN-A1-ECO-055",
+      "tema": 10,
+      "answer": "A",
+      "source": "Examen A1 Tècnic/a Superior Economista Granollers",
+      "reserve_flag": true,
+      "reserve_memberships": []
+    },
+    {
+      "id": "CONS-ECONPLACES_14",
+      "tema": 8,
+      "answer": "A",
+      "source": "Granollers - dues places economista A1",
+      "reserve_flag": false,
+      "reserve_memberships": [
+        {
+          "exam": "Model_examen_2a_prova_plantilla_A_-_Codi_3940_LAROCA_desbloquejat(2).pdf",
+          "number": 52,
+          "reserve": true,
+          "official_answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "CONS-ECONPLACES_21",
+      "tema": 10,
+      "answer": "B",
+      "source": "Granollers - dues places economista A1",
+      "reserve_flag": false,
+      "reserve_memberships": [
+        {
+          "exam": "Model_examen_2a_prova_plantilla_A_-_Codi_3940_LAROCA_desbloquejat(2).pdf",
+          "number": 54,
+          "reserve": true,
+          "official_answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "CONS-DRET22_R1",
+      "tema": 7,
+      "answer": "D",
+      "source": "Granollers - Borsa Tècnic/a Superior Dret 2022",
+      "reserve_flag": true,
+      "reserve_memberships": []
+    },
+    {
+      "id": "CONS-DRET22_R2",
+      "tema": 15,
+      "answer": "B",
+      "source": "Granollers - Borsa Tècnic/a Superior Dret 2022",
+      "reserve_flag": true,
+      "reserve_memberships": []
+    },
+    {
+      "id": "CONS-DRET22_R3",
+      "tema": 7,
+      "answer": "A",
+      "source": "Granollers - Borsa Tècnic/a Superior Dret 2022",
+      "reserve_flag": true,
+      "reserve_memberships": []
+    },
+    {
+      "id": "CONS-798",
+      "tema": 14,
+      "answer": "A",
+      "source": "Granollers - personal administratiu, biblioteca i informàtica",
+      "reserve_flag": false,
+      "reserve_memberships": [
+        {
+          "exam": "personal docent tei(4).pdf",
+          "number": 32,
+          "reserve": true
+        },
+        {
+          "exam": "personal docent grup A_any2022(4).pdf",
+          "number": 32,
+          "reserve": true
+        }
+      ]
+    },
+    {
+      "id": "ROCA-01-009",
+      "tema": 4,
+      "answer": "C",
+      "source": "Model_1r_exercici_TAG_189878W_LAROCA.pdf.crdownload",
+      "reserve_flag": false,
+      "reserve_memberships": [
+        {
+          "exam": "Model_1r_exercici_TAG_189878W (1)(2).pdf",
+          "number": 54,
+          "reserve": true,
+          "official_answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ROCA-01-051",
+      "tema": 1,
+      "answer": "B",
+      "source": "Model_1r_exercici_TAG_189878W_LAROCA.pdf.crdownload",
+      "reserve_flag": false,
+      "reserve_memberships": [
+        {
+          "exam": "Model_1r_exercici_TAG_189878W (1)(2).pdf",
+          "number": 51,
+          "reserve": true,
+          "official_answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ROCA-01-052",
+      "tema": 7,
+      "answer": "D",
+      "source": "Model_1r_exercici_TAG_189878W_LAROCA.pdf.crdownload",
+      "reserve_flag": false,
+      "reserve_memberships": [
+        {
+          "exam": "Model_1r_exercici_TAG_189878W (1)(2).pdf",
+          "number": 52,
+          "reserve": true,
+          "official_answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ROCA-01-053",
+      "tema": 10,
+      "answer": "A",
+      "source": "Model_1r_exercici_TAG_189878W_LAROCA.pdf.crdownload",
+      "reserve_flag": false,
+      "reserve_memberships": [
+        {
+          "exam": "Model_1r_exercici_TAG_189878W (1)(2).pdf",
+          "number": 53,
+          "reserve": true,
+          "official_answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ROCA-01-055",
+      "tema": 7,
+      "answer": "A",
+      "source": "Model_1r_exercici_TAG_189878W_LAROCA.pdf.crdownload",
+      "reserve_flag": false,
+      "reserve_memberships": [
+        {
+          "exam": "Model_1r_exercici_TAG_189878W (1)(2).pdf",
+          "number": 55,
+          "reserve": true,
+          "official_answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ROCA-02-059",
+      "tema": 15,
+      "answer": "A",
+      "source": "Model_2n_exercici_TAG_189878W_LA ROCA.pdf.crdownload",
+      "reserve_flag": false,
+      "reserve_memberships": [
+        {
+          "exam": "Examen_TAG_La_Roca_2(1).pdf",
+          "number": 61,
+          "reserve": true
+        }
+      ]
+    },
+    {
+      "id": "ROCA-02-060",
+      "tema": 9,
+      "answer": "B",
+      "source": "Model_2n_exercici_TAG_189878W_LA ROCA.pdf.crdownload",
+      "reserve_flag": false,
+      "reserve_memberships": [
+        {
+          "exam": "Examen_TAG_La_Roca_2(1).pdf",
+          "number": 62,
+          "reserve": true
+        }
+      ]
+    },
+    {
+      "id": "ROCA-02-061",
+      "tema": 11,
+      "answer": "D",
+      "source": "Model_2n_exercici_TAG_189878W_LA ROCA.pdf.crdownload",
+      "reserve_flag": false,
+      "reserve_memberships": [
+        {
+          "exam": "Examen_TAG_La_Roca_2(1).pdf",
+          "number": 63,
+          "reserve": true
+        }
+      ]
+    },
+    {
+      "id": "ROCA-04-025",
+      "tema": 7,
+      "answer": "D",
+      "source": "Model_examen_1a_prova_plantilla_A_-_Codi_3940_LAROCA.pdf.crdownload",
+      "reserve_flag": false,
+      "reserve_memberships": [
+        {
+          "exam": "Model_examen_2a_prova_plantilla_A_-_Codi_3940_LAROCA_desbloquejat(2).pdf",
+          "number": 51,
+          "reserve": true,
+          "official_answer": "D"
+        },
+        {
+          "exam": "Model_examen_1a_prova_plantilla_A_-_Codi_3940_LAROCA(2).pdf",
+          "number": 26,
+          "reserve": true,
+          "annulled": false
+        }
+      ]
+    },
+    {
+      "id": "ROCA-04-026",
+      "tema": 4,
+      "answer": "A",
+      "source": "Model_examen_1a_prova_plantilla_A_-_Codi_3940_LAROCA.pdf.crdownload",
+      "reserve_flag": false,
+      "reserve_memberships": [
+        {
+          "exam": "Model_examen_1a_prova_plantilla_A_-_Codi_3940_LAROCA(2).pdf",
+          "number": 27,
+          "reserve": true,
+          "annulled": false
+        }
+      ]
+    },
+    {
+      "id": "ROCA-04-028",
+      "tema": 11,
+      "answer": "B",
+      "source": "Model_examen_1a_prova_plantilla_A_-_Codi_3940_LAROCA.pdf.crdownload",
+      "reserve_flag": false,
+      "reserve_memberships": [
+        {
+          "exam": "Model_examen_1a_prova_plantilla_A_-_Codi_3941_LAROCA_desbloquejat(2).pdf",
+          "number": 28,
+          "reserve": true,
+          "annulled": false
+        },
+        {
+          "exam": "Model_examen_1a_prova_plantilla_A_-_Codi_3940_LAROCA(2).pdf",
+          "number": 29,
+          "reserve": true,
+          "annulled": false
+        }
+      ]
+    },
+    {
+      "id": "ROCA-04-029",
+      "tema": 7,
+      "answer": "C",
+      "source": "Model_examen_1a_prova_plantilla_A_-_Codi_3940_LAROCA.pdf.crdownload",
+      "reserve_flag": false,
+      "reserve_memberships": [
+        {
+          "exam": "Model_examen_1a_prova_plantilla_A_-_Codi_3941_LAROCA_desbloquejat(2).pdf",
+          "number": 29,
+          "reserve": true,
+          "annulled": false
+        },
+        {
+          "exam": "Model_examen_1a_prova_plantilla_A_-_Codi_3940_LAROCA(2).pdf",
+          "number": 30,
+          "reserve": true,
+          "annulled": false
+        }
+      ]
+    },
+    {
+      "id": "ROCA-05-025",
+      "tema": 1,
+      "answer": "A",
+      "source": "Model_examen_1a_prova_plantilla_A_-_Codi_3941_LAROCA.pdf.crdownload",
+      "reserve_flag": false,
+      "reserve_memberships": [
+        {
+          "exam": "Model_examen_2a_prova_plantilla_A_-_Codi_3940_LAROCA_desbloquejat(2).pdf",
+          "number": 55,
+          "reserve": true,
+          "official_answer": "A"
+        },
+        {
+          "exam": "Model_examen_1a_prova_plantilla_A_-_Codi_3941_LAROCA_desbloquejat(2).pdf",
+          "number": 26,
+          "reserve": true,
+          "annulled": false
+        }
+      ]
+    },
+    {
+      "id": "ROCA-06-050",
+      "tema": 8,
+      "answer": "D",
+      "source": "Model_examen_2a_prova_plantilla_A_-_Codi_3940_LAROCA.pdf.crdownload",
+      "reserve_flag": false,
+      "reserve_memberships": [
+        {
+          "exam": "Model_examen_2a_prova_plantilla_A_-_Codi_3940_LAROCA_desbloquejat(2).pdf",
+          "number": 53,
+          "reserve": true,
+          "official_answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ROCA-3941-1A-027",
+      "tema": 7,
+      "answer": "C",
+      "source": "Model_examen_1a_prova_plantilla_A_-_Codi_3941_LAROCA_desbloquejat.pdf",
+      "reserve_flag": false,
+      "reserve_memberships": [
+        {
+          "exam": "Model_examen_1a_prova_plantilla_A_-_Codi_3941_LAROCA_desbloquejat(2).pdf",
+          "number": 27,
+          "reserve": true,
+          "annulled": false
+        },
+        {
+          "exam": "Model_examen_1a_prova_plantilla_A_-_Codi_3940_LAROCA(2).pdf",
+          "number": 28,
+          "reserve": true,
+          "annulled": false
+        }
+      ]
+    },
+    {
+      "id": "ROCA-3941-1A-030",
+      "tema": 7,
+      "answer": "C",
+      "source": "Model_examen_1a_prova_plantilla_A_-_Codi_3941_LAROCA_desbloquejat.pdf",
+      "reserve_flag": false,
+      "reserve_memberships": [
+        {
+          "exam": "Model_examen_1a_prova_plantilla_A_-_Codi_3941_LAROCA_desbloquejat(2).pdf",
+          "number": 30,
+          "reserve": true,
+          "annulled": false
+        }
+      ]
+    },
+    {
+      "id": "LAROCA-TAG-189878W-2N-064",
+      "tema": 7,
+      "answer": "B",
+      "source": "Model_2n_exercici_TAG_189878W_LA_ROCA_desbloquejat.pdf",
+      "reserve_flag": false,
+      "reserve_memberships": [
+        {
+          "exam": "Examen_TAG_La_Roca_2(1).pdf",
+          "number": 64,
+          "reserve": true
+        }
+      ]
+    },
+    {
+      "id": "LAROCA-TAG-189878W-2N-065",
+      "tema": 7,
+      "answer": "B",
+      "source": "Model_2n_exercici_TAG_189878W_LA_ROCA_desbloquejat.pdf",
+      "reserve_flag": false,
+      "reserve_memberships": [
+        {
+          "exam": "Examen_TAG_La_Roca_2(1).pdf",
+          "number": 65,
+          "reserve": true
+        }
+      ]
+    },
+    {
+      "id": "BARC-PARCS-2022-072",
+      "tema": 1,
+      "answer": "B",
+      "source": "2022_PARCS_09_OP_3pl_Auxiliar_Administratiu_1r_i_2n_any_Questionari_Solucionari_Coneixements_AJUNT BARCELONA(6).pdf",
+      "reserve_flag": true,
+      "reserve_memberships": []
+    },
+    {
+      "id": "BARC-PARCS-2022-075",
+      "tema": 1,
+      "answer": "C",
+      "source": "2022_PARCS_09_OP_3pl_Auxiliar_Administratiu_1r_i_2n_any_Questionari_Solucionari_Coneixements_AJUNT BARCELONA(6).pdf",
+      "reserve_flag": true,
+      "reserve_memberships": []
+    },
+    {
+      "id": "BARC-PARCS-2022-071",
+      "tema": 4,
+      "answer": "A",
+      "source": "2022_PARCS_09_OP_3pl_Auxiliar_Administratiu_1r_i_2n_any_Questionari_Solucionari_Coneixements_AJUNT BARCELONA(6).pdf",
+      "reserve_flag": true,
+      "reserve_memberships": []
+    },
+    {
+      "id": "BARC-PARCS-2022-074",
+      "tema": 8,
+      "answer": "B",
+      "source": "2022_PARCS_09_OP_3pl_Auxiliar_Administratiu_1r_i_2n_any_Questionari_Solucionari_Coneixements_AJUNT BARCELONA(6).pdf",
+      "reserve_flag": true,
+      "reserve_memberships": []
+    },
+    {
+      "id": "BARC-PARCS-2022-076",
+      "tema": 11,
+      "answer": "D",
+      "source": "2022_PARCS_09_OP_3pl_Auxiliar_Administratiu_1r_i_2n_any_Questionari_Solucionari_Coneixements_AJUNT BARCELONA(6).pdf",
+      "reserve_flag": true,
+      "reserve_memberships": []
+    },
+    {
+      "id": "ROCA-ADM-3927-2025-R02",
+      "tema": 1,
+      "answer": "C",
+      "source": "Ajuntament de la Roca del Vallès — Administratius/ives 2025, 1a prova, Model A (3927)",
+      "reserve_flag": true,
+      "reserve_memberships": []
+    },
+    {
+      "id": "ROCA-ADM-3927-2025-R05",
+      "tema": 7,
+      "answer": "A",
+      "source": "Ajuntament de la Roca del Vallès — Administratius/ives 2025, 1a prova, Model A (3927)",
+      "reserve_flag": true,
+      "reserve_memberships": []
+    },
+    {
+      "id": "ROCA-ADM-3927-2025-2A-R02",
+      "tema": 10,
+      "answer": "C",
+      "source": "Ajuntament de la Roca del Vallès — Administratius/ives 2025, 2a prova, Model A (3927)",
+      "reserve_flag": true,
+      "reserve_memberships": []
+    },
+    {
+      "id": "ROCA-ADM-3927-2025-2A-R03",
+      "tema": 15,
+      "answer": "D",
+      "source": "Ajuntament de la Roca del Vallès — Administratius/ives 2025, 2a prova, Model A (3927)",
+      "reserve_flag": true,
+      "reserve_memberships": []
+    },
+    {
+      "id": "ROCA-ADM-3927-2025-2A-R04",
+      "tema": 8,
+      "answer": "D",
+      "source": "Ajuntament de la Roca del Vallès — Administratius/ives 2025, 2a prova, Model A (3927)",
+      "reserve_flag": true,
+      "reserve_memberships": []
+    },
+    {
+      "id": "ROCA-ADM-3927-2025-2A-R05",
+      "tema": 15,
+      "answer": "A",
+      "source": "Ajuntament de la Roca del Vallès — Administratius/ives 2025, 2a prova, Model A (3927)",
+      "reserve_flag": true,
+      "reserve_memberships": []
+    },
+    {
+      "id": "GRAN-TIT-UNIV-2023-M1-041",
+      "tema": 1,
+      "answer": "B",
+      "source": "A1 I A2 personal tècnic amb titulació universitària_ANY 2023_granollers.pdf",
+      "reserve_flag": true,
+      "reserve_memberships": []
+    },
+    {
+      "id": "GRAN-TIT-UNIV-2023-M1-042",
+      "tema": 7,
+      "answer": "B",
+      "source": "A1 I A2 personal tècnic amb titulació universitària_ANY 2023_granollers.pdf",
+      "reserve_flag": true,
+      "reserve_memberships": []
+    },
+    {
+      "id": "GRAN-SIST-INF-A1-R02",
+      "tema": 2,
+      "answer": "D",
+      "source": "A1 TECNIC SUPERIOR DE SISTEMES D'INFORMACIÓ(4).pdf",
+      "reserve_flag": true,
+      "reserve_memberships": []
+    },
+    {
+      "id": "GRAN-TEI-2026-031",
+      "tema": 13,
+      "answer": "B",
+      "source": "personal docent tei(4).pdf",
+      "reserve_flag": false,
+      "reserve_memberships": [
+        {
+          "exam": "personal docent tei(4).pdf",
+          "number": 31,
+          "reserve": true
+        },
+        {
+          "exam": "personal docent grup A_any2022(4).pdf",
+          "number": 31,
+          "reserve": true
+        }
+      ]
+    }
+  ]
+}

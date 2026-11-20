@@ -1,0 +1,23 @@
+{
+  "version": 429,
+  "record": "CONS-ECONPLACES_21",
+  "question_original": 54,
+  "sources": [
+    "Model_examen_2a_prova_plantilla_A_-_Codi_3940_LAROCA_desbloquejat(2).pdf",
+    "La_Roca_Examen_3941_2a_prova(2).pdf"
+  ],
+  "change": "Afegit punt final literal a les opcions A, B i C",
+  "before": {
+    "A": "L’expressió de les obligacions que, com a màxim, poden reconèixer l’Entitat i els seus Organismes Autònoms",
+    "B": "L’expressió xifrada, conjunta i sistemàtica de les obligacions que, com a màxim, poden reconèixer l’Entitat i els seus organismes autònoms",
+    "C": "L’expressió xifrada, general i sistemàtica de les obligacions que, com a màxim, poden reconèixer l’Entitat i els seus Organismes Autònoms"
+  },
+  "after": {
+    "A": "L’expressió de les obligacions que, com a màxim, poden reconèixer l’Entitat i els seus Organismes Autònoms.",
+    "B": "L’expressió xifrada, conjunta i sistemàtica de les obligacions que, com a màxim, poden reconèixer l’Entitat i els seus organismes autònoms.",
+    "C": "L’expressió xifrada, general i sistemàtica de les obligacions que, com a màxim, poden reconèixer l’Entitat i els seus Organismes Autònoms."
+  },
+  "answer_unchanged": "B",
+  "bank_records": 2234,
+  "limits": "No certifica la resta de preguntes ni les respostes encara pendents de verificació"
+}

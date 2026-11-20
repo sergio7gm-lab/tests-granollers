@@ -1,0 +1,6 @@
+RESERVES V408
+Registres del banc: 2234
+Reserves identificades: 67
+Reserves amb resposta A-D i quatre opcions: 66
+S'ha corregit el filtre per reconeixer reserve, reserva, is_reserve i vinculacions d'examens.
+La verificacio contra tots els PDF originals continua pendent quan no estan disponibles.

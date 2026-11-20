@@ -1,0 +1,7 @@
+VERSIÓ v448 — ESTUDI IMMEDIAT
+
+Obre Tests_Granollers_v438/index.html al navegador. Per a una persistència més fiable, utilitza un servidor local HTTP i no canviïs d’origen entre sessions.
+
+Modalitats: resums del temari, simulacres, exàmens oficials i repàs.
+
+IMPORTANT: No s’han modificat les preguntes ni les respostes. La verificació literal i documental de tot el banc continua pendent.

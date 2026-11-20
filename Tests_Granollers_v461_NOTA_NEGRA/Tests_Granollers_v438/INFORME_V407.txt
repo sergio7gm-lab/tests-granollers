@@ -1,0 +1,1 @@
+Versió 407. Corregit error de sintaxi JavaScript del canvi de perfils. Node --check superat. Banc: 2234 registres. Reserves detectades: 48. Auditoria documental i proves funcionals encara pendents.

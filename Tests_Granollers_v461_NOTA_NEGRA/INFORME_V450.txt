@@ -1,0 +1,1 @@
+v450 — Reserves integrades als exàmens oficials. Reserves no activades: visibles i corregibles però no puntuables. Reserves activades en versions anteriors: continuen puntuables. No s'han modificat enunciats, opcions ni claus. Advertiment: vinculacions sense exam_memberships poden requerir auditoria documental.

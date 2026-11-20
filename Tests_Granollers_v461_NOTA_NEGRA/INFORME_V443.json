@@ -1,0 +1,25 @@
+{
+  "base": 442,
+  "version": 443,
+  "normalized_reserve_ids": [
+    "BCN-ENG-A1-2025-41",
+    "BCN-ENG-A1-2025-42",
+    "BCN-ENG-A1-2025-43",
+    "BCN-ENG-A1-2025-44",
+    "BCN-ENG-A1-2025-45",
+    "LAROCA-TAG-155928R-2P-063",
+    "LAROCA-TAG-155928R-2P-064",
+    "ROCA-ADM-3927-2025-R02",
+    "ROCA-ADM-3927-2025-R05",
+    "ROCA-ADM-3927-2025-2A-R02",
+    "ROCA-ADM-3927-2025-2A-R03",
+    "ROCA-ADM-3927-2025-2A-R04",
+    "ROCA-ADM-3927-2025-2A-R05",
+    "CONS-ARQ2025-R1",
+    "CONS-ARQ2025-R3"
+  ],
+  "count": 15,
+  "answer_changes": 0,
+  "text_changes": 0,
+  "note": "Metadades de procedència copiades dels camps validation/validation_source existents. No s’ha repetit la verificació visual dels PDF."
+}

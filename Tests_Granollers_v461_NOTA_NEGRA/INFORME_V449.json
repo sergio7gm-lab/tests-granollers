@@ -1,0 +1,12 @@
+{
+  "base": "v448",
+  "version": "v449",
+  "changes": [
+    "copia exacta de index.html a l’arrel per facilitar l’obertura",
+    "guia d’accés"
+  ],
+  "question_changes": 0,
+  "answer_changes": 0,
+  "records_reported": 2234,
+  "documentary_validation": "pendent"
+}

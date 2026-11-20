@@ -1,0 +1,1 @@
+Auditoria documental: La Roca TAG 189878W, reserves 51–55. Resultats detallats a AUDITORIA_PDF_RESERVES_V410.json. Sense modificacions de preguntes. Pendent resta de reserves i prova funcional de perfils.

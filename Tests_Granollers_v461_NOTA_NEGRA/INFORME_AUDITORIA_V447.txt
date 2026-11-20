@@ -1,0 +1,11 @@
+AUDITORIA ESTRUCTURAL V447 — 20/11/2026
+Base: ZIP v446, fitxer Tests_Granollers_v438/index.html
+Registres: 2234
+IDs duplicats: 0
+Temes fora 1–15: 0
+Respostes absents o fora A–D: 0
+Preguntes amb opcions A/B/C però sense D: 9. No s'ha afegit una D fictícia: contrastar els PDF originals.
+Registres reserve=true sense exam_memberships amb reserve=true: 54. No és necessàriament un error; cal verificar procedència i estructura històrica.
+Registres sense literal_audit_status: 1578. Alguns tenen literal_audit o altres evidències; absència de camp no equival a falta de revisió.
+No s'han modificat preguntes, opcions, respostes, claus ni procedències.
+L'auditoria no certifica literalitat documental ni vigència jurídica.

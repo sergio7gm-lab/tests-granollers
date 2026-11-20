@@ -1,0 +1,6 @@
+Versio v389. Examen de biblioteca agrupat en una sola entrada de 30 preguntes. Les preguntes i claus no es modifiquen.\n
+Versio v391: unificacio de les entrades PERSONAL DOCENT(4), PERSONAL DOCENT(7) i Granollers - Personal docent Model 1 (10 preguntes).
+
+V434: barra de progrés documental de reserves 23/67, no equival a percentatge global. No canvia preguntes ni puntuacions.
+
+V435: inventari de prioritats documentals de 44 reserves en 16 grups de font. Sense canvis al banc ni a les respostes.

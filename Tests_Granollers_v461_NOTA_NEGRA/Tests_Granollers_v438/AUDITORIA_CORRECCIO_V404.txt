@@ -1,0 +1,13 @@
+AUDITORIA V404 — CORRECCIÓ D’ESQUEMA DE RESPOSTES
+
+El recompte anterior de 33 respostes pendents era incorrecte: 32 registres tenien la clau al camp «correct», no al camp «answer».
+S’han copiat les 32 claus al camp «answer» sense modificar enunciats, opcions ni procedència de les solucions. Aquesta operació NO verifica jurídicament les respostes.
+
+Registres totals: 2234
+Respostes normalitzades: 32
+Registres encara sense clau: 1
+Registre pendent: GRAN-DRET-2022-Q25
+Vinculacions de reserva detectades: 29
+
+La pregunta GRAN-DRET-2022-Q25 es manté sense resposta i no ha de puntuar. La seva opció D inclou el text «RESERVA», que requereix confrontació documental.
+No s’ha realitzat una comprovació exhaustiva de totes les reserves amb tots els PDF originals.

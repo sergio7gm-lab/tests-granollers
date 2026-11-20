@@ -1,0 +1,6 @@
+CONTROL V451 - 20/11/2026
+Registres: 2234
+Reserves sense vinculacio individual d'examen: 54
+S'ha creat un inventari CSV dels identificadors que requereixen contrast amb els PDF originals.
+No s'han modificat enunciats, opcions, claus ni puntuacions.
+ATENCIO: no es pot afirmar que totes les reserves estiguin integrades correctament fins a validar aquestes vinculacions i fer proves funcionals.

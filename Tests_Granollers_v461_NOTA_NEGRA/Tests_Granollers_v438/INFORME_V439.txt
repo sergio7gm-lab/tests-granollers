@@ -1,0 +1,1 @@
+Auditoria v439: corregits tres artefactes de paginació OCR/transcripció en opcions D de Salut Pública (preguntes 36, 43 i 50). S’han eliminat els números de pàgina 7, 8 i 9 afegits indegudament. PDF de referència: A2 TECNIC MITJA DE PROTECCIÓ DE SALUT PÚBLICA_ok.pdf. Sense canvis de resposta, enunciat, tema ni identificador.

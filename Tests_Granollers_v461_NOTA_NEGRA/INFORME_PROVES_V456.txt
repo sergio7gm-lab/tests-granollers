@@ -1,0 +1,9 @@
+VERSIÓ 456 — PROVES FUNCIONALS (20/11/2026)
+
+Chromium amb HTML carregat en document de prova: inicialització sense errors; 3 perfils visibles; 104 exàmens al selector; inici d’examen, resposta i finalització funcionals; prova de mostra: 40 puntuables, 1 encert, 39 blancs, 0,20/8 punts i 0,25/10.
+
+LIMITACIÓ: l’entorn impedeix navegar a file:// i a localhost; no s’ha pogut verificar la persistència real entre obertures ni els canvis de perfil en recàrrega. La sessió en document de prova té localStorage bloquejat. No es pot certificar encara una prova completa en dispositiu real.
+
+Sense modificacions de preguntes, respostes ni claus. La numeració de versió de la interfície s’ha actualitzat.
+
+Per seguretat, exporteu el progrés des de l’aplicació després de cada sessió important.

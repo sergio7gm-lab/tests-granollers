@@ -1,0 +1,10 @@
+{
+  "version": 434,
+  "bank_records": 2234,
+  "reserve_records": 67,
+  "reserve_documental_question_options_confirmed": 23,
+  "reserve_documental_pending": 44,
+  "reserve_documental_percent": 34.3,
+  "overall_project_percent": null,
+  "note": "La barra representa només el contrast dels enunciats i les opcions de reserves segons l’inventari v411-v413, no les respostes ni l’auditoria global. Altres revisions posteriors poden estar solapades; no s’han sumat sense deduplicar."
+}

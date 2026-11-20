@@ -1,0 +1,51 @@
+{
+  "version": "421",
+  "date": "2026-11-20",
+  "test_environment": "Chromium headless amb DOM real i localStorage simulat; accés file:// bloquejat per l'entorn",
+  "profiles": [
+    {
+      "name": "Sergio",
+      "profile": "1",
+      "storage_key": "granollers_a1a2_fase68_global",
+      "reserve_questions_in_session": 65,
+      "consumed_after_finish": 65,
+      "history_sessions": 1,
+      "correct": 1,
+      "wrong": 0,
+      "blank": 64,
+      "raw_score": 0.2,
+      "javascript_errors": 0
+    },
+    {
+      "name": "Aitor",
+      "profile": "2",
+      "storage_key": "granollers_a1a2_fase68_global_perfil_2",
+      "reserve_questions_in_session": 65,
+      "consumed_after_finish": 65,
+      "history_sessions": 1,
+      "correct": 1,
+      "wrong": 0,
+      "blank": 64,
+      "raw_score": 0.2,
+      "javascript_errors": 0
+    },
+    {
+      "name": "Sara",
+      "profile": "3",
+      "storage_key": "granollers_a1a2_fase68_global_perfil_3",
+      "reserve_questions_in_session": 65,
+      "consumed_after_finish": 65,
+      "history_sessions": 1,
+      "correct": 1,
+      "wrong": 0,
+      "blank": 64,
+      "raw_score": 0.2,
+      "javascript_errors": 0
+    }
+  ],
+  "limits": [
+    "Les proves són simulacions aïllades per perfil, no una prova d'usuari en dispositius reals",
+    "Les 52 reserves restants no estan verificades amb solucionari oficial",
+    "No s'ha contrastat tot el banc amb els PDF originals"
+  ]
+}

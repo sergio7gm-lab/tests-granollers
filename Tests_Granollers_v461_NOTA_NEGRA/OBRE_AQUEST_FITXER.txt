@@ -1,0 +1,9 @@
+APP TEST GRANOLLERS v449
+
+1. Descomprimeix TOT el ZIP.
+2. Obre index.html (ara directament a l’arrel).
+3. Utilitza les modalitats de pràctica disponibles.
+
+IMPORTANT: aquesta versió facilita l’accés però NO certifica les 2.234 preguntes.
+El fitxer original Tests_Granollers_v438/index.html es conserva sense canvis.
+El progrés pot dependre de l’origen del navegador i de localStorage; no es garanteix que es transfereixi entre rutes o dispositius.

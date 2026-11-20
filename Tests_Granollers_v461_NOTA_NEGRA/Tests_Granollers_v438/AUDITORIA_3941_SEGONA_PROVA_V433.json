@@ -1,0 +1,156 @@
+{
+  "version": 433,
+  "source_pdf": "La_Roca_Examen_3941_2a_prova(2).pdf",
+  "scope": "reserves 51-55 segona prova model 3941",
+  "checks": [
+    {
+      "number": 51,
+      "record_id": "ROCA-AUX-3941-P2-051",
+      "question_exact": true,
+      "question_bank": "Els ajuntaments, en virtut de l’establert al text refós de la Llei reguladora de les hisendes locals:",
+      "question_pdf": "Els ajuntaments, en virtut de l’establert al text refós de la Llei reguladora de les hisendes locals:",
+      "options": {
+        "A": {
+          "exact": true,
+          "bank": "Exigiran l’Impost sobre Béns Immobles, l’Impost sobre Activitats Econòmiques, i l’Impost sobre Vehicles de Tracció Mecànica.",
+          "pdf": "Exigiran l’Impost sobre Béns Immobles, l’Impost sobre Activitats Econòmiques, i l’Impost sobre Vehicles de Tracció Mecànica."
+        },
+        "B": {
+          "exact": true,
+          "bank": "Exigiran l’Impost sobre Béns Immobles i podran establir i exigir l’Impost sobre Activitats Econòmiques, i l’Impost sobre Vehicles de Tracció Mecànica.",
+          "pdf": "Exigiran l’Impost sobre Béns Immobles i podran establir i exigir l’Impost sobre Activitats Econòmiques, i l’Impost sobre Vehicles de Tracció Mecànica."
+        },
+        "C": {
+          "exact": true,
+          "bank": "Exigiran l’Impost Activitats Econòmiques, i podran establir i exigir l’Impost sobre Vehicles de Tracció Mecànica.",
+          "pdf": "Exigiran l’Impost Activitats Econòmiques, i podran establir i exigir l’Impost sobre Vehicles de Tracció Mecànica."
+        }
+      },
+      "bank_answer": "A"
+    },
+    {
+      "number": 52,
+      "record_id": "CONS-ECONPLACES_14",
+      "question_exact": true,
+      "question_bank": "No és un contracte típic regulat a la Llei 9/2017, de contractes del sector públic:",
+      "question_pdf": "No és un contracte típic regulat a la Llei 9/2017, de contractes del sector públic:",
+      "options": {
+        "A": {
+          "exact": true,
+          "bank": "La compravenda.",
+          "pdf": "La compravenda."
+        },
+        "B": {
+          "exact": true,
+          "bank": "La concessió de serveis.",
+          "pdf": "La concessió de serveis."
+        },
+        "C": {
+          "exact": true,
+          "bank": "El contracte de subministrament.",
+          "pdf": "El contracte de subministrament."
+        },
+        "D": {
+          "exact": true,
+          "bank": "El contracte de serveis.",
+          "pdf": "El contracte de serveis."
+        }
+      },
+      "bank_answer": "A"
+    },
+    {
+      "number": 53,
+      "record_id": "ROCA-06-050",
+      "question_exact": true,
+      "question_bank": "A quin tipus de contracte correspon la definició següent?: “Tenen per objecte l'adquisició, el arrendament financer, o l'arrendament, amb o sense opció de compra, de productes o béns mobles”.",
+      "question_pdf": "A quin tipus de contracte correspon la definició següent?: “Tenen per objecte l'adquisició, el arrendament financer, o l'arrendament, amb o sense opció de compra, de productes o béns mobles”.",
+      "options": {
+        "A": {
+          "exact": true,
+          "bank": "Contracte d'obres.",
+          "pdf": "Contracte d'obres."
+        },
+        "B": {
+          "exact": true,
+          "bank": "Contracte de serveis.",
+          "pdf": "Contracte de serveis."
+        },
+        "C": {
+          "exact": true,
+          "bank": "Contracte de concessió de serveis.",
+          "pdf": "Contracte de concessió de serveis."
+        },
+        "D": {
+          "exact": true,
+          "bank": "Contracte de subministraments.",
+          "pdf": "Contracte de subministraments.",
+          "pdf_extracted_with_footer": "Contracte de subministraments. Ajuntament de la Roca del Vallès Carrer de Catalunya, 24 08430 La Roca del Vallès Tel: 93 842 20 16 http://www.laroca.cat",
+          "note": "Peu de pàgina institucional extret després de l’opció; exclòs de la comparació, sense alterar el text del banc."
+        }
+      },
+      "bank_answer": "D"
+    },
+    {
+      "number": 54,
+      "record_id": "CONS-ECONPLACES_21",
+      "question_exact": true,
+      "question_bank": "Els pressupostos generals de les entitats locals constitueixen, d’acord amb el Text refós de la Llei Reguladora de les Hisendes Locals:",
+      "question_pdf": "Els pressupostos generals de les entitats locals constitueixen, d’acord amb el Text refós de la Llei Reguladora de les Hisendes Locals:",
+      "options": {
+        "A": {
+          "exact": true,
+          "bank": "L’expressió de les obligacions que, com a màxim, poden reconèixer l’Entitat i els seus Organismes Autònoms.",
+          "pdf": "L’expressió de les obligacions que, com a màxim, poden reconèixer l’Entitat i els seus Organismes Autònoms."
+        },
+        "B": {
+          "exact": true,
+          "bank": "L’expressió xifrada, conjunta i sistemàtica de les obligacions que, com a màxim, poden reconèixer l’Entitat i els seus organismes autònoms.",
+          "pdf": "L’expressió xifrada, conjunta i sistemàtica de les obligacions que, com a màxim, poden reconèixer l’Entitat i els seus organismes autònoms."
+        },
+        "C": {
+          "exact": true,
+          "bank": "L’expressió xifrada, general i sistemàtica de les obligacions que, com a màxim, poden reconèixer l’Entitat i els seus Organismes Autònoms.",
+          "pdf": "L’expressió xifrada, general i sistemàtica de les obligacions que, com a màxim, poden reconèixer l’Entitat i els seus Organismes Autònoms."
+        },
+        "D": {
+          "exact": true,
+          "bank": "L’expressió comptable, conjunta i sistemàtica de les obligacions que, com a màxim, poden reconèixer l’Entitat i els seus Organismes Autònoms.",
+          "pdf": "L’expressió comptable, conjunta i sistemàtica de les obligacions que, com a màxim, poden reconèixer l’Entitat i els seus Organismes Autònoms."
+        }
+      },
+      "bank_answer": "B"
+    },
+    {
+      "number": 55,
+      "record_id": "ROCA-04-025",
+      "question_exact": true,
+      "question_bank": "Com es denomina el document mitjançant el qual els interessats posen en coneixement de l’Administració Pública competent les seves dades identificatives i altres requisits exigibles per l’exercici d’un dret o l’inici d’una activitat?",
+      "question_pdf": "Com es denomina el document mitjançant el qual els interessats posen en coneixement de l’Administració Pública competent les seves dades identificatives i altres requisits exigibles per l’exercici d’un dret o l’inici d’una activitat?",
+      "options": {
+        "A": {
+          "exact": true,
+          "bank": "Declaració responsable.",
+          "pdf": "Declaració responsable."
+        },
+        "B": {
+          "exact": true,
+          "bank": "Sol·licitud a instància de part.",
+          "pdf": "Sol·licitud a instància de part."
+        },
+        "C": {
+          "exact": true,
+          "bank": "Declaració jurada.",
+          "pdf": "Declaració jurada."
+        },
+        "D": {
+          "exact": true,
+          "bank": "Comunicació.",
+          "pdf": "Comunicació."
+        }
+      },
+      "bank_answer": "D"
+    }
+  ],
+  "limits": "Comparació del text extret, no verificació visual de marques de resposta. Les diferències no es corregeixen automàticament.",
+  "checks_note": "Les opcions es comparen normalitzant espais; a la 53D es descarta exclusivament el peu de pàgina identificat."
+}

@@ -1,0 +1,1 @@
+v417: 5 respostes oficials de reserva (TAG La Roca, 51-55) comprovades visualment per format en negreta del PDF original. 67 reserves, 2234 registres. 62 reserves encara no verificades per aquest mètode. No s’ha executat prova E2E de navegador.

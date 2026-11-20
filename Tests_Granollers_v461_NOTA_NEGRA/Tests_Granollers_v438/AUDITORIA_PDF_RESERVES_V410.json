@@ -1,0 +1,87 @@
+{
+  "versio": "v410",
+  "pdf_verificat": "Model_1r_exercici_TAG_189878W_LAROCA.pdf",
+  "abast": "5 reserves 51–55: comparació del text extret del PDF amb enunciat i opcions del banc, normalitzant només espais i salts de línia",
+  "resultats": [
+    {
+      "numero": 51,
+      "id": "ROCA-01-051",
+      "enunciat_literal_normalitzant_espais": true,
+      "opcions_literals_normalitzant_espais": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true
+      },
+      "resposta_banc": "B",
+      "resposta_clau_declarada": "B",
+      "resposta_concordant_amb_clau_registrada": true
+    },
+    {
+      "numero": 52,
+      "id": "ROCA-01-052",
+      "enunciat_literal_normalitzant_espais": true,
+      "opcions_literals_normalitzant_espais": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true
+      },
+      "resposta_banc": "D",
+      "resposta_clau_declarada": "D",
+      "resposta_concordant_amb_clau_registrada": true
+    },
+    {
+      "numero": 53,
+      "id": "ROCA-01-053",
+      "enunciat_literal_normalitzant_espais": true,
+      "opcions_literals_normalitzant_espais": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true
+      },
+      "resposta_banc": "A",
+      "resposta_clau_declarada": "A",
+      "resposta_concordant_amb_clau_registrada": true
+    },
+    {
+      "numero": 54,
+      "id": "ROCA-01-009",
+      "enunciat_literal_normalitzant_espais": true,
+      "opcions_literals_normalitzant_espais": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true
+      },
+      "resposta_banc": "C",
+      "resposta_clau_declarada": "C",
+      "resposta_concordant_amb_clau_registrada": true
+    },
+    {
+      "numero": 55,
+      "id": "ROCA-01-055",
+      "enunciat_literal_normalitzant_espais": true,
+      "opcions_literals_normalitzant_espais": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": true
+      },
+      "resposta_banc": "A",
+      "resposta_clau_declarada": "A",
+      "resposta_concordant_amb_clau_registrada": true
+    }
+  ],
+  "models_docents": {
+    "q42": "Mateix enunciat i mateixa resposta A, però les opcions B/C estan permutades entre models; conservar ambdós.",
+    "q43": "Mateix enunciat però ordre d opcions diferent i resposta C/B; conservar ambdós."
+  },
+  "limitacions": [
+    "No verifica visualment els colors/negretes del solucionari original.",
+    "La comparació automàtica de text no garanteix fidelitat gràfica ni de marques.",
+    "No verifica els altres 62 registres de reserva.",
+    "No ha estat possible prova al navegador (bloqueig administratiu de Chromium)."
+  ]
+}

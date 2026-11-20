@@ -1,0 +1,1 @@
+v401 · Tres perfils locals independents; el perfil 1 conserva les dades de v400 si es manté el mateix origen del navegador. La sincronització entre dispositius NO està implementada. Les reserves es poden practicar sense consumir el banc. La certificació literal i jurídica de tot el banc continua pendent.
